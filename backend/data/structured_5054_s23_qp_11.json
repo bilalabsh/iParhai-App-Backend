@@ -1,0 +1,653 @@
+[
+    {
+        "QuestionNumber": "May-June/11/2023/Q1",
+        "Question": "A student wishes to measure directly the circumference of a football.\nWhat is the most suitable instrument to use?",
+        "Options": {
+            "A": "a clock only",
+            "B": "a measuring tape only",
+            "C": "a micrometer only",
+            "D": "a ruler only"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q2",
+        "Question": "Which equation contains two vector quantities?",
+        "Options": {
+            "A": "acceleration = change in velocity / time taken",
+            "B": "average speed = distance travelled / time taken",
+            "C": "density = mass / volume",
+            "D": "volume = length x width x height"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 3: Waves ",
+        "Topic": "3.1 General Properties of Waves",
+        "Sub_topic": "The Wave Equation"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q3",
+        "Question": "Forces of 6.0 N and 8.0 N act as shown.\nWhich diagram shows the resultant R of these two forces?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zJsJFKQTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z9uIiyAUpfCK2FezlSOE6BmcdvgrVqyPZMjhD",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q4",
+        "Question": "A speed-time graph for the journey of a car is shown.\nWhat is the distance-time graph for the journey?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z9uIiyAUpfCK2FezlSOE6BmcdvgrVqyPZMjhD",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zjGSaj3tcX8yYHmo51UqruQTa7KGeAMI4dltn",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q5",
+        "Question": "The gravitational field strength on Earth is 9.8 N / kg.\nThe gravitational field strength on Mars is 3.7 N / kg.\nThe difference between the weight of an object on Earth and the weight of the same object on Mars is 25 N.\nWhat is the mass of the object?",
+        "Options": {
+            "A": "1.9 kg",
+            "B": "2.6 kg",
+            "C": "4.1 kg",
+            "D": "6.8 kg"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q6",
+        "Question": "A student determines the density of a solid metal cube.\nWhich pieces of equipment does the student use?",
+        "Options": {
+            "A": "a balance and a force meter",
+            "B": "a balance and a ruler",
+            "C": "a micrometer and a measuring cylinder",
+            "D": "a ruler and a measuring cylinder"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.4 Density ",
+        "Sub_topic": "Density"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q7",
+        "Question": "The diagram shows the only two horizontal forces acting on a trolley that is accelerating at 0.12 m / s^2.\nWhat is the mass of the trolley?",
+        "Options": {
+            "A": "0.050 kg",
+            "B": "0.13 kg",
+            "C": "20 kg",
+            "D": "80 kg"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zjGSaj3tcX8yYHmo51UqruQTa7KGeAMI4dltn",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q8",
+        "Question": "A spring is stretched to different lengths by a variable force.\nThe graph shows how the size of the force depends on the length to which the spring is stretched.\nWhat is the spring constant k of the spring?",
+        "Options": {
+            "A": "0.27 N / cm",
+            "B": "0.40 N / cm",
+            "C": "2.5 N / cm",
+            "D": "3.8 N / cm"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zx9IhMrVWL1OPFWpMnj5YBRUb3vfAKoVJSH6q",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q9",
+        "Question": "A uniform horizontal beam, pivoted at its right-hand end, is in equilibrium. A force of 60 N acts vertically upwards on the beam as shown.\nWhat is the weight of the beam?",
+        "Options": {
+            "A": "36 N",
+            "B": "40 N",
+            "C": "90 N",
+            "D": "100 N"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z9joCu0UpfCK2FezlSOE6BmcdvgrVqyPZMjhD",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q10",
+        "Question": "A constant frictional force acts on a moving object for a short amount of time causing the momentum of the object to decrease.\nWhich expression is used to calculate the time for which the force acts?",
+        "Options": {
+            "A": "time = change in momentum / force",
+            "B": "time = change in momentum * force",
+            "C": "time = momentum / force",
+            "D": "time = momentum * force"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q11",
+        "Question": "A large stone is rolled onto a lorry using a ramp.\nThe length of the ramp is l.\nThe stone is lifted a height of h.\nThe mass of the stone is m. The weight of the stone is W.\nWhich expression is equal to the useful work done on the stone?",
+        "Options": {
+            "A": "m * h",
+            "B": "W * h",
+            "C": "m * l",
+            "D": "W * l"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z3rs4qtmKsiQOHFRv6MZ2JCobEYX594k0aIeL",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q12",
+        "Question": "The diagram shows a burning candle.\nWhich energy store is associated with the burning candle?",
+        "Options": {
+            "A": "chemical",
+            "B": "elastic",
+            "C": "electrostatic",
+            "D": "nuclear"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zdKM0yDYfit9Db5ROIxGAYpCzaePVF6Joq8wS",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q13",
+        "Question": "An African elephant has a mass of 6000 kg and each of its four feet has an area of 0.20 m^2. The gravitational field strength g is 9.8 N / kg.\nWhat is the average pressure due to the elephant when it is standing stationary on all four feet on level ground?",
+        "Options": {
+            "A": "7.5 kPa",
+            "B": "30 kPa",
+            "C": "74 kPa",
+            "D": "290 kPa"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q14",
+        "Question": "Which row describes the shape and the volume of a liquid at constant temperature?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zkkbTJD0IV0zt2ngpB3LPE6aUfRdhXCulYOq9",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q15",
+        "Question": "Which row shows how the forces and the distances between the particles in a solid generally compare with the forces and distances in a liquid?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zsjtXduBvNek8RAbHLUPnuEOD24qIzC0iQcGf",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q16",
+        "Question": "An incomplete statement about latent heat is given. Latent heat is the ......1...... required to overcome the bonds between molecules and change the ......2...... of a substance.\nWhich words are inserted into gap 1 and gap 2 to correctly complete the sentence?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zZIvSFLwKnuFBL9aJTvbjrM5Q0eS3Ei1NOtwY",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q17",
+        "Question": "A cold solid is placed on top of a hot solid.\nThermal energy is transferred from the hot solid to the cold one.\nWhat is the explanation for this?",
+        "Options": {
+            "A": "A hot solid expands, so its particles will move further apart.",
+            "B": "Energy is transferred from one particle to the next.",
+            "C": "Heat always rises.",
+            "D": "Molecules are free to move randomly through the solids."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q18",
+        "Question": "A house is to be thermally insulated to reduce thermal energy loss and reduce fuel costs.\nWhich type of thermal insulation pays back the cost of installation in the shortest time?",
+        "Options": {
+            "A": "cavity wall insulation",
+            "B": "double glazing",
+            "C": "draught proofing",
+            "D": "loft insulation"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zxTyliXWL1OPFWpMnj5YBRUb3vfAKoVJSH6qu",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q19",
+        "Question": "The diagram shows two divergent rays of light from an object O being reflected from a plane mirror.\nAt which position is the image formed?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3znprAWp3GHk3Ss4LatWuqbDerNUhip86PcymT",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q20",
+        "Question": "Light is incident on a mirror at an angle of 45° as shown.\nThe mirror can be rotated about an axis into the page through point X.\nThe mirror is rotated until the light is reflected back along its original path.\nThrough which angle is the mirror rotated?",
+        "Options": {
+            "A": "22.5° clockwise",
+            "B": "22.5° anticlockwise",
+            "C": "45° clockwise",
+            "D": "45° anticlockwise"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z1XIbrv5TP3Jxd6qKczmLYhu5BOeRspE0ywGU",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q21",
+        "Question": "A ray of light is incident on a plastic block in air, at an angle of incidence i. The refractive index of the plastic is n.\nThe light ray refracts along the plastic-air boundary when it reaches X.\nWhich equation is correct?",
+        "Options": {
+            "A": "sin i = sin 41° / n",
+            "B": "sin i = sin 49° / n",
+            "C": "sin i = n x sin 41°",
+            "D": "sin i = n x sin 49°"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zGgAGMPci8gCLovzKwqaT0beUYRsdPQnEZ9Iu",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q22",
+        "Question": "The diagram shows white light entering a prism.\nWhat happens at point X and what is the colour of the light that strikes the screen at point Z?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zGgAGMPci8gCLovzKwqaT0beUYRsdPQnEZ9Iu",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zrEi4uDa20GbPEguFOR8J3tSdWTNnM1ehIcil",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q23",
+        "Question": "Which row names a region of the electromagnetic spectrum with a wavelength longer than that of visible light and a region with a frequency that is greater than that of visible light?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zJZfWwSlTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q24",
+        "Question": "Sound travels at different speeds in different states of matter.\nWhich list gives the three states of matter arranged in order of the speed of sound from slowest to fastest?",
+        "Options": {
+            "A": "gas → liquid → solid",
+            "B": "liquid → solid → gas",
+            "C": "solid → gas → liquid",
+            "D": "solid → liquid → gas"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q25",
+        "Question": "Bar magnets and various non-magnetic and demagnetised metal bars are placed in the different arrangements shown.\nIn which arrangement do the bars repel?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zVFMewNjhFUOyEd1YvBRagrzxC8X7MTZn0Wuk",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q26",
+        "Question": "A student uses a wooden clamp and a stand to hold a freely suspended bar magnet.\nThe diagrams show that:\n\u25cf in experiment 1, the student holds a bar magnet next to the suspended magnet\n\u25cf in experiment 2, the student holds an iron bar next to the suspended magnet\n\u25cf in experiment 3, the student holds a steel bar next to the suspended magnet.\nIn which experiments does the suspended magnet move?",
+        "Options": {
+            "A": "1, 2 and 3",
+            "B": "1 and 2 only",
+            "C": "1 and 3 only",
+            "D": "2 and 3 only"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zkJPHaE0IV0zt2ngpB3LPE6aUfRdhXCulYOq9",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q27",
+        "Question": "In an electrostatics experiment, a plastic rod is rubbed with a cloth.\nThe cloth becomes negatively charged.\nWhich diagram shows the charge on the rod and describes the movement of charge?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zkJPHaE0IV0zt2ngpB3LPE6aUfRdhXCulYOq9",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q28",
+        "Question": "Object X is stationary and positively charged. It experiences a force due to the field produced by object Y.\nThe arrows show the direction of the field produced by Y.\nWhich statement about the direction of the force on X is correct?",
+        "Options": {
+            "A": "It is towards the right because it is in an electric field.",
+            "B": "It is towards the left because it is in an electric field.",
+            "C": "It is towards the right because it is in a magnetic field.",
+            "D": "It is towards the left because it is in a magnetic field."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zxb06NWL1OPFWpMnj5YBRUb3vfAKoVJSH6quC",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q29",
+        "Question": "The diagram shows a battery of three 1.5 V cells.\nWhat is an advantage of this arrangement of cells?",
+        "Options": {
+            "A": "The battery can supply a current for a longer time than a single 1.5 V cell.",
+            "B": "The battery can supply any e.m.f. between 0 V and 4.5 V.",
+            "C": "The battery supplies more energy to each coulomb of charge than a single 1.5 V cell.",
+            "D": "The e.m.f. of the battery is 4.5 V."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zjPZb6dtcX8yYHmo51UqruQTa7KGeAMI4dltn",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q30",
+        "Question": "A potential divider consists of a light-dependent resistor (LDR) and a resistor connected to a 6.0 V battery.\nThe output is 3.0 V.\nWhat is the resistance of the LDR?",
+        "Options": {
+            "A": "0",
+            "B": "between 0 and 10 000 Ω",
+            "C": "10 000 Ω",
+            "D": "more than 10 000 Ω"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zZGskLGwKnuFBL9aJTvbjrM5Q0eS3Ei1NOtwY",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q31",
+        "Question": "Three students each suggest a consequence of wiring lamps in parallel rather than in series.\nstudent 1 If one lamp breaks, the other lamps stay lit.\nstudent 2 The lamps can be switched on and off separately.\nstudent 3 The p.d. across each lamp is equal to the p.d. across the supply.\nWhich students are correct?",
+        "Options": {
+            "A": "1, 2 and 3",
+            "B": "1 and 2 only",
+            "C": "1 and 3 only",
+            "D": "2 and 3 only"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q32",
+        "Question": "When wire XY is moved downwards between the poles of a stationary magnet, an e.m.f. is produced across X and Y.\nWhich action produces an e.m.f. across X and Y in the opposite direction?",
+        "Options": {
+            "A": "Move both the wire and the magnet upwards at the same speed.",
+            "B": "The wire is kept stationary and the magnet is moved upwards.",
+            "C": "The wire is moved downwards and the magnet is moved upwards.",
+            "D": "The wire is moved upwards and the magnet is kept stationary."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zwxsNFaEvsxCXYz9rldjIQ0TUe4F8DAbNK7Bk",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q33",
+        "Question": "An a.c. voltage is displayed on an oscilloscope screen. The Y-gain is set at 2.0 V/cm.\nWhat is the maximum value of the voltage?",
+        "Options": {
+            "A": "2.0 V",
+            "B": "4.0 V",
+            "C": "8.0 V",
+            "D": "12 V"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zompz0peUOQw6GXZ43txCNRF1AyvjJlpPHi0k",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q34",
+        "Question": "The results of a scattering experiment show that a very small nucleus contains most of the matter in an atom.\nWhat is scattered in this experiment?",
+        "Options": {
+            "A": "alpha-particles",
+            "B": "beta-particles",
+            "C": "gamma radiation",
+            "D": "gold nuclei"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q35",
+        "Question": "Atoms P and Q are isotopes of the same element.\nHow does the composition of an atom of P compare with the composition of an atom of Q?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zompz0peUOQw6GXZ43txCNRF1AyvjJlpPHi0k",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q36",
+        "Question": "The nucleus of an atom emits an alpha-particle.\nHow do the proton number and nucleon number change?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zompz0peUOQw6GXZ43txCNRF1AyvjJlpPHi0k",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q37",
+        "Question": "The diagram shows how the thickness of paper is measured during manufacture.\nIf the sheet is too thick, fewer beta-particles can reach the detector.",
+        "Options": {
+            "A": "Alpha-particles are all stopped by the paper.",
+            "B": "Alpha-particles make the paper radioactive.",
+            "C": "Gamma radiation is all stopped by the paper.",
+            "D": "Gamma radiation is only produced by sources with a short half-life."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zGKbu76ci8gCLovzKwqaT0beUYRsdPQnEZ9Iu",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q38",
+        "Question": "A sample of tritium has a mass of 32 mg.\nTritium has a half-life of 12 years.\nHow much of the sample of tritium decays in 36 years?",
+        "Options": {
+            "A": "4.0 mg",
+            "B": "8.0 mg",
+            "C": "24 mg",
+            "D": "28 mg"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q39",
+        "Question": "It takes 27 days for the Moon to orbit the Earth.\nThe average value of the radius of the Moon's orbit is 3.8 x 10^8 m.\nWhat is the average orbital speed of the Moon?",
+        "Options": {
+            "A": "160 m / s",
+            "B": "1000 m / s",
+            "C": "1.4 x 10^8 m / s",
+            "D": "8.8 x 10^8 m / s"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2023/Q40",
+        "Question": "What is the nuclear reaction that takes place in stable stars?",
+        "Options": {
+            "A": "fission of helium to produce hydrogen",
+            "B": "fission of hydrogen to produce helium",
+            "C": "fusion of helium into hydrogen",
+            "D": "fusion of hydrogen into helium"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    }
+]

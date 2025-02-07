@@ -1,0 +1,655 @@
+[
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q1",
+        "Question": "Which description is of a scalar quantity?\nA It has a direction only.\nB It has direction and unit only.\nC It has direction, magnitude and unit.\nD It has magnitude and unit only.",
+        "Options": {
+            "A": "It has a direction only.",
+            "B": "It has direction and unit only.",
+            "C": "It has direction, magnitude and unit.",
+            "D": "It has magnitude and unit only."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q2",
+        "Question": "The diagram shows a distance-time graph for a car travelling in a straight line.\nIn which region is the car decelerating?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zhPHYI2JIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q3",
+        "Question": "A wooden block is pushed across a table at constant speed.\nWhich statement is correct?",
+        "Options": {
+            "A": "The frictional force increases as the block moves at constant speed.",
+            "B": "The frictional force is equal and opposite to the pushing force.",
+            "C": "The frictional force is greater than the pushing force.",
+            "D": "The frictional force is less than the pushing force."
+        },
+        "image_q": "",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q4",
+        "Question": "A car begins to move. It speeds up until it reaches a constant speed.\nWhat happens to the acceleration and what happens to the velocity of the car?",
+        "Options": {
+            "A": "Both the acceleration and the velocity change.",
+            "B": "Only the acceleration changes.",
+            "C": "Only the velocity changes.",
+            "D": "Neither the acceleration nor the velocity changes."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q5",
+        "Question": "The diagram shows how the length of a spring changes when a load of 10 N is suspended from it.\nThe 10 N load is replaced by a 20 N load.\nWhat is the new length of the spring?",
+        "Options": {
+            "A": "6.0 cm",
+            "B": "11 cm",
+            "C": "14 cm",
+            "D": "16 cm"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zCNbBzL7mw4fM63T9sjZezvbdH52WyJIAU1Qq",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q6",
+        "Question": "A force F causes a moment about point O on an L-shaped bar. The force F acts at point P.\nWhat is the moment of F about O?",
+        "Options": {
+            "A": "Fd1",
+            "B": "Fd2",
+            "C": "Fd3",
+            "D": "Fd4"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zCNbBzL7mw4fM63T9sjZezvbdH52WyJIAU1Qq",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q7",
+        "Question": "A uniform metre rule of weight W is pivoted at the 25 cm mark and held horizontal by a force F applied upwards at the 100 cm mark.\nThe rule is supported by a vertical force P acting at the pivot.\nWhat is the magnitude of P?",
+        "Options": {
+            "A": "W/3",
+            "B": "W/2",
+            "C": "2W/3",
+            "D": "4W/3"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zZSSHTMxwKnuFBL9aJTvbjrM5Q0eS3Ei1NOtw",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q8",
+        "Question": "The diagram shows a stationary fairground ride with four chairs of equal mass.\nWhich chair has the most gravitational potential energy?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zy8Ok7F3M2a6zS5b4wV9PxWcdoqHBkNZRFtI8",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q9",
+        "Question": "Hydroelectric and tidal power stations generate electrical energy.\nDo these use renewable sources of energy?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zzFHWo7XgcbkVNoTdvFsgQWPxeBK7Ym3UfnLC",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q10",
+        "Question": "Which energy resource is correctly described?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zJD7ZzXTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy Stores & Transfers"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q11",
+        "Question": "A small motor has an input power rating of 10 W and is switched on for 5.0 minutes.\nWhat is the electrical energy input to the motor in this time?",
+        "Options": {
+            "A": "2.0 J",
+            "B": "50 J",
+            "C": "300 J",
+            "D": "3000 J"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q12",
+        "Question": "Two liquids, X and Y, are poured into beakers of different sizes.\nLiquid X has a density of 1000 kg/m3 and liquid Y has a density of 900 kg/m3.\nOn the base of which beaker is the pressure greatest?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zJD7ZzXTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.4 Density ",
+        "Sub_topic": "Density"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q13",
+        "Question": "A swimmer is at the bottom of a pool. The density of the water in the pool is 1000 kg/m3 and the gravitational field strength is 9.8 N/kg.\nWhich expression gives the pressure exerted on the swimmer due to the water?",
+        "Options": {
+            "A": "( 5.0 x 1000) / 9.8 Pa",
+            "B": "5.0 x 1000 x 9.8 Pa",
+            "C": "1000/5.0 Pa",
+            "D": "(1000 x 9.8)5.0 Pa"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zuX4JQ21AcuG8JrRHd0ZnxaWjlXMgteNL6Pk3",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.4 Density ",
+        "Sub_topic": "Density"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q14",
+        "Question": "Some gas is trapped in a large syringe.\nThe atmospheric pressure is 100 kPa. The gas pressure is 200 kPa above atmospheric pressure.\nThe piston moves outwards and the volume of the trapped gas doubles. The temperature remains constant.\nWhat is the new gas pressure?",
+        "Options": {
+            "A": "100 kPa",
+            "B": "150 kPa",
+            "C": "200 kPa",
+            "D": "400 kPa"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zq3rqGKwAm7BUuds9WL3RE8exCVHpg4vYSyaO",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q15",
+        "Question": "A graph of temperature against time is shown for a material being heated from its solid state.\nWhich row describes what is happening at X, Y and Z?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zgkNdneiYslNhwU2Zo7On0RdvQfepEKkFuc95",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zAPasLpyyWlge6onXFREq0hTvGY4A7riPIZLp",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q16",
+        "Question": "A student on a camping expedition cools a sealed bottle of water which is at the same temperature as the surrounding air.\nWhich method cools the water at the greatest rate?",
+        "Options": {
+            "A": "Wrap the bottle in aluminium foil and place it in a shady place.",
+            "B": "Wrap the bottle in dry, white paper and put it in a sunny place.",
+            "C": "Wrap the bottle in foam and put it in a breeze.",
+            "D": "Wrap the bottle in wet paper and put it in a breeze."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q17",
+        "Question": "A student suggests three factors that affect the rate of emission of thermal energy by radiation from a hot object.\nThese are:\n1 the surface temperature of the object\n2 the surface area of the object\n3 the surface colour of the object.\nWhich suggestions are correct?",
+        "Options": {
+            "A": "1, 2 and 3",
+            "B": "1 and 2 only",
+            "C": "1 and 3 only",
+            "D": "2 and 3 only"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q18",
+        "Question": "A plane mirror on a vertical wall forms an image of an object placed in front of it. \nWhich characteristics describe the image?",
+        "Options": {
+            "A": "real and inverted",
+            "B": "real and upright",
+            "C": "virtual and inverted",
+            "D": "virtual and upright"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q19",
+        "Question": "The diagrams show light travelling in air incident on the surface of a glass block. \nSome light is reflected and some light is refracted. \nWhich diagram shows the reflection and refraction of the light?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zAPasLpyyWlge6onXFREq0hTvGY4A7riPIZLp",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q20",
+        "Question": "Which statement is correct? \nA Total internal reflection only occurs when light travels from air into glass. \nB The larger the refractive index of glass, the larger is the critical angle. \nC When total internal reflection occurs, the angle of incidence is equal to the angle of reflection. \nD When total internal reflection occurs, the angle of incidence is less than the critical angle.",
+        "Options": {
+            "A": "Total internal reflection only occurs when light travels from air into glass.",
+            "B": "The larger the refractive index of glass, the larger is the critical angle.",
+            "C": "When total internal reflection occurs, the angle of incidence is equal to the angle of reflection.",
+            "D": "When total internal reflection occurs, the angle of incidence is less than the critical angle."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q21",
+        "Question": "An object is placed in front of a converging lens of focal length 4.0 cm. The height of the image is 6.0 cm. \nWhat is the linear magnification produced by the lens?",
+        "Options": {
+            "A": "0.50",
+            "B": "1.5",
+            "C": "2.0",
+            "D": "6.0"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zAw6qkqyyWlge6onXFREq0hTvGY4A7riPIZLp",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q22",
+        "Question": "Which range of sound frequencies includes only frequencies of sound that can be heard by a\nhealthy human ear?",
+        "Options": {
+            "A": "0.5-50 Hz",
+            "B": "5-500 Hz",
+            "C": "50-5000 Hz",
+            "D": "500-50 000 Hz"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q23",
+        "Question": "An aircraft flying through the air becomes electrically charged.\nWhat causes this to happen?",
+        "Options": {
+            "A": "background radiation in the aircraft",
+            "B": "friction of the aircraft with the air",
+            "C": "heating of the aircraft surface",
+            "D": "radio waves emitted by the aircraft"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q24",
+        "Question": "Two metal spheres are brought close to each other. The two spheres repel each other.\nWhich statement explains this?",
+        "Options": {
+            "A": "Both spheres are charged and both are positive.",
+            "B": "Both spheres are charged but one is positive and the other is negative.",
+            "C": "The spheres have the same number of electrons.",
+            "D": "The spheres have the same number of protons."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q25",
+        "Question": "A student sets up the circuit shown. The lamp does not light.\nWhat makes the lamp light?",
+        "Options": {
+            "A": "changing the supply to a 12 V battery",
+            "B": "inserting a fuse",
+            "C": "reversing the battery connections",
+            "D": "reversing the connections to the lamp"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zekTh0RXgy10m2aX9JbqkU8pYE6fRiPzSd7Cl",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q26",
+        "Question": "Circuits P and Q each contain two identical resistors, each of resistance R.\nWhat is the resistance of circuit P and what is the resistance of circuit Q?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zekTh0RXgy10m2aX9JbqkU8pYE6fRiPzSd7Cl",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zekTh0RXgy10m2aX9JbqkU8pYE6fRiPzSd7Cl",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q27",
+        "Question": "The current in an electric motor is 2.0 A.\nIt transfers 20 J of energy in 5.0 s.\nWhat is the potential difference (p.d.) across the motor?",
+        "Options": {
+            "A": "0.50 V",
+            "B": "2.0 V",
+            "C": "8.0 V",
+            "D": "50 V"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Newton's First Law"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q28",
+        "Question": "Three students make comments about appliances with double insulation.\nstudent P Appliances with double insulation do not need an earth wire.\nstudent Q Double insulation protects the user of the appliance from an electric shock.\nstudent R The circuits of appliances with double insulation do not contain fuses.\nWhich students are correct?",
+        "Options": {
+            "A": "P, Q and R",
+            "B": "P and Q only",
+            "C": "P and R only",
+            "D": "Q and R only"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q29",
+        "Question": "A magnet moves at constant speed through a coil of wire. The coil is connected to an\noscilloscope. The diagram shows the trace produced on the screen.\nThe experiment is changed and a new trace is produced.\nWhich statement explains why the new trace is different from the original trace?",
+        "Options": {
+            "A": "The coil is longer and the other pole of the magnet enters the coil first.",
+            "B": "The coil is longer and the same pole of the magnet enters the coil first.",
+            "C": "The coil is shorter and the other pole of the magnet enters the coil first.",
+            "D": "The coil is shorter and the same pole of the magnet enters the coil first."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zCRA84M7mw4fM63T9sjZezvbdH52WyJIAU1Qq",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q30",
+        "Question": "A bar magnet is dropped through a vertical solenoid that is connected to a sensitive ammeter.\nA current is induced in the solenoid and the solenoid becomes an electromagnet.\nWhich row describes the polarity of end Y of the solenoid and the force between the solenoid and\nthe bar magnet when the bar magnet leaves the solenoid?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z2KAPMahqhJVFQScDvk5PdH13CLaW7s49w2yK",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zEh3lDRSN7nxAWpJZKjvdBUumiskwaRIQqoFt",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q31",
+        "Question": "Which graph shows the voltage output against time for a simple a.c. generator?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z52La7mTXEWylompHDBYf4PGKaU2exNZLbMjF",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q32",
+        "Question": "A charger for a mobile phone (cellphone) uses a transformer which steps the voltage down from 230 V to 5.0 V.\nThe primary coil in the transformer has 2500 turns.\nHow many turns are on the secondary coil?",
+        "Options": {
+            "A": "11",
+            "B": "54",
+            "C": "500",
+            "D": "11 500"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q33",
+        "Question": "A commutator is connected to the coil of a d.c. motor.\nThe commutator rotates and connects the coil to the power supply.\nOnce every half-turn, the current in the coil reverses.\nWhat is the name of the commutator and what is the orientation of the plane of the coil as the current reverses?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zVILcZ4jhFUOyEd1YvBRagrzxC8X7MTZn0Wuk",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zgMTNSMziYslNhwU2Zo7On0RdvQfepEKkFuc9",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q34",
+        "Question": "A girl makes a simple transformer to illuminate a low voltage lamp. The transformer is shown.\nWhat is the material of the rod and what is the type of power supply?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zgMTNSMziYslNhwU2Zo7On0RdvQfepEKkFuc9",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q35",
+        "Question": "Which particles are in the nucleus of a large atom?",
+        "Options": {
+            "A": "neutrons and electrons only",
+            "B": "protons and electrons only",
+            "C": "protons and neutrons only",
+            "D": "protons, neutrons and electrons"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q36",
+        "Question": "Alpha (α) particles and beta (β) particles are emitted during radioactive decay.\nWhich particle has the weaker ionising effect and which has the weaker penetrating power?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zgMTNSMziYslNhwU2Zo7On0RdvQfepEKkFuc9",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Power"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q37",
+        "Question": "A beam of beta (β) particles passes into a magnetic field and into an electric field.\nWhich numbers show the paths of the beam through the fields?",
+        "Options": {
+            "A": "1 and 4",
+            "B": "1 and 6",
+            "C": "2 and 5",
+            "D": "3 and 6"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zAfvIM5yyWlge6onXFREq0hTvGY4A7riPIZLp",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q38",
+        "Question": "The isotope radon-222 has a half-life of 3.8 days.\nWhich statement about a sample containing 1.0 mg of radon-222 is correct?",
+        "Options": {
+            "A": "After 1.9 days there is 0.50 mg of radon-222 left.",
+            "B": "After 3.8 days there is 0.50 mg of radon-222 left.",
+            "C": "Its half-life is half that of a 2.0 mg sample.",
+            "D": "There is no radon-222 left after 7.6 days."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q39",
+        "Question": "What is the first stage in the life cycle of stars?",
+        "Options": {
+            "A": "a black hole",
+            "B": "a cloud of gas and dust",
+            "C": "a red supergiant",
+            "D": "a supernova"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Newton's First Law"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2023/Q40",
+        "Question": "What is the definition of redshift?",
+        "Options": {
+            "A": "the increase in observed frequency of light from galaxies that are moving away from the Earth",
+            "B": "the increase in observed wavelength of light from galaxies that are moving away from the Earth",
+            "C": "the light emitted by distant galaxies that is blue when it reaches the Earth",
+            "D": "the light reaching the Earth that is red when it is emitted by distant galaxies"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    }
+]

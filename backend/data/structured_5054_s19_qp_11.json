@@ -1,0 +1,655 @@
+[
+    {
+        "QuestionNumber": "May-June/11/2019/Q1",
+        "Question": "Which reading is given to one tenth of a millimetre?",
+        "Options": {
+            "A": "3.3 cm",
+            "B": "3.31 cm",
+            "C": "3.310 cm",
+            "D": "3.312 cm"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3ztlAklOb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q2",
+        "Question": "Two forces X and Y act as shown.\nWhich diagram shows the resultant force R of X and Y? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3ztlAklOb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zoLa7DoeUOQw6GXZ43txCNRF1AyvjJlpPHi0k",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q3",
+        "Question": "Which reading is given to one tenth of a millimetre?",
+        "Options": {
+            "A": "3.3 cm",
+            "B": "3.31 cm",
+            "C": "3.310 cm",
+            "D": "3.312 cm"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q4",
+        "Question": "The magnitudes of three different electric charges are given below.\nWhat is the correct order of size, from largest to smallest? ",
+        "Options": {
+            "A": "1 mC →  1 MC →  1 kC",
+            "B": "1 MC →  1 mC →  1 kC",
+            "C": "1 MC →  1 kC →  1 mC",
+            "D": "1 kC →  1 mC →  1 MC"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 4: UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Demonstrating Electric Charges"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q5",
+        "Question": "Four of the gravitational forces that act between bodies in the Solar System are listed below.\nP the force on the Moon due to the Earth\nQ the force on the Earth due to the Sun\nR the force on the Earth due to the Moon\nS the force on the Moon due to the Sun\nWhich two forces are a Newton's third law pair (action and reaction)?",
+        "Options": {
+            "A": "P and Q",
+            "B": "P and R",
+            "C": "Q and S",
+            "D": "R and S"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Newton's Third Law"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q6",
+        "Question": "A hot-air balloon is travelling at constant velocity and is at a constant height above the ground.\nWhich statement is correct? ",
+        "Options": {
+            "A": "W and Y are equal, X and Z are equal.",
+            "B": "W and Y are equal, X is greater than Z.",
+            "C": "X and Z are equal, Y is greater than W.",
+            "D": "Y is greater than W, X is greater than Z."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3ztlAklOb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q7",
+        "Question": "The diagram represents an object O moving from X to Y along a circular path at constant speed.\nWhat is the direction of the resultant force on O in the position shown? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3ztlAklOb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Circular Motion"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q8",
+        "Question": "Four objects of different masses are situated in places with different gravitational field strengths.\nWhich object has the greatest weight? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3ztlAklOb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Gravitational Potential Energy"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q9",
+        "Question": "A uniform metre rule is balanced by a 4.0 N weight as shown.\nWhat is the weight W of the metre rule?",
+        "Options": {
+            "A": "1.0 N",
+            "B": "4.0 N",
+            "C": "16 N",
+            "D": "40 N"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zhKNxeLJIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Equilibrium"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q10",
+        "Question": "Which statement about centre of mass is correct?",
+        "Options": {
+            "A": "Objects with a centre of mass at the same height are less stable when the base is larger.",
+            "B": "Objects with a centre of mass at the same height are more stable when the base is larger.",
+            "C": "Objects with higher centres of mass and smaller bases are more stable.",
+            "D": "Objects with identical bases are more stable when the centre of mass is higher."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q11",
+        "Question": "A garden table weighs 60 N and has a top surface of area 2.0 m2.\nIt is raining and the rain produces a pressure of 4.0 N / m2 on the table.\nIgnoring the pressure of the atmosphere, what is the force exerted by the table on the ground? ",
+        "Options": {
+            "A": "52 N",
+            "B": "58 N",
+            "C": "62 N",
+            "D": "68 N"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q12",
+        "Question": "The diagram shows a manometer containing mercury that is sealed at one end.\nWhat happens to the distance h when the manometer is taken higher up a mountain? ",
+        "Options": {
+            "A": "It decreases, because atmospheric pressure decreases with height.",
+            "B": "It decreases, because atmospheric pressure increases with height.",
+            "C": "It increases, because atmospheric pressure decreases with height.",
+            "D": "It increases, because atmospheric pressure increases with height."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zJZfXP8qTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Atmospheric pressure"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q13",
+        "Question": "Some doctors measure blood pressure by using a mercury manometer.\nBlood pressure varies by 5.6 kPa as a heart beats.\nThe density of mercury is 14 000 kg / m3 and the gravitational field strength g is 10 N / kg.\nWhat is the change in the height difference between the levels in the manometer during a heartbeat? ",
+        "Options": {
+            "A": "40 mm",
+            "B": "80 mm",
+            "C": "400 mm",
+            "D": "800 mm"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Atmospheric pressure"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q14",
+        "Question": "The diagram shows a stationary fairground ride with four chairs of equal mass.\nWhich chair has the most gravitational potential energy?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z9vQBR4mUpfCK2FezlSOE6BmcdvgrVqyPZMjh",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Gravitational Potential Energy"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q15",
+        "Question": "The diagram shows a small car of mass 500 kg approaching a hill.\nIgnoring friction, how much work is done in moving the car up the hill?",
+        "Options": {
+            "A": "5.0 x 10^3 J",
+            "B": "5.0 x 10^4 J",
+            "C": "1.0 x 10^5 J",
+            "D": "1.0 x 10^6 J"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zvDRpEGZL5gQr7XAEsc0K2plVFx9IBWPt3jhS",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Work"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q16",
+        "Question": "Which statement is correct? ",
+        "Options": {
+            "A": "Infrared radiation cannot travel in a vacuum.",
+            "B": "Infrared radiation cannot travel in solids or in gases.",
+            "C": "Infrared radiation can only travel in a vacuum.",
+            "D": "Infrared radiation can travel in a vacuum and in gases."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Radiation"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q17",
+        "Question": "The diagram shows a set of apparatus used to determine the specific heat capacity of water.\nWhat does not affect the rate at which energy is lost to the surroundings?",
+        "Options": {
+            "A": "insulating the container",
+            "B": "placing a lid on the container",
+            "C": "polishing the outer surface of the container",
+            "D": "moving the thermometer closer to the heater"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zTdhN7A8D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Specific Heat Capacity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q18",
+        "Question": "Two thermometers X and Y contain different liquids but are otherwise identical.\nWhich is the more sensitive thermometer and which is the thermometer with the larger range?\n",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zVzgEuVjhFUOyEd1YvBRagrzxC8X7MTZn0Wuk",
+        "answer": "B",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Thermal Expansion"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q19",
+        "Question": "The diagram shows two thermometers P and Q that are identical except that P contains less mercury.\nWhich statement is correct? ",
+        "Options": {
+            "A": "The lowest measureable temperature is the same on P and on Q.",
+            "B": "The range of P is equal to the range of Q.",
+            "C": "The scales on P and Q are both linear.",
+            "D": "The sensitivity of P is equal to the sensitivity of Q."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zCdcs4W7mw4fM63T9sjZezvbdH52WyJIAU1Qq",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Thermal Expansion"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q20",
+        "Question": "The diagram shows air trapped in a flask by a small volume of water in a thin tube.\nWhen the flask is held in a student's hands, the small volume of water first moves down from P to Q, and then up to R.\nWhy does the small volume of water move like this? ",
+        "Options": {
+            "A": "The flask contracts and then the air expands.",
+            "B": "The flask expands and then the air contracts.",
+            "C": "The flask expands and then the air expands less than the flask.",
+            "D": "The flask expands and then the air expands more than the flask."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zULvo0FW47CAenGyKIR35sQkFbLzpahNMxdt0",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Thermal Expansion"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q21",
+        "Question": "Which statement about particles in a liquid is correct?",
+        "Options": {
+            "A": "They all have the same speed.",
+            "B": "They are stationary.",
+            "C": "They move at random.",
+            "D": "They vibrate about a fixed point."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "States of Matter"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q22",
+        "Question": "A gas is enclosed in a container of fixed volume.\nThe gas gains heat energy from an external source.\nWhat happens to the molecules of the gas? ",
+        "Options": {
+            "A": "They expand.",
+            "B": "They move faster inside the container.",
+            "C": "They move further apart.",
+            "D": "They vibrate with greater frequency."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "States of Matter"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q23",
+        "Question": "Which waves are longitudinal? ",
+        "Options": {
+            "A": "gamma rays",
+            "B": "light waves",
+            "C": "ultrasound waves",
+            "D": "X-rays"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.1 General Properties of Waves",
+        "Sub_topic": "Transverse & Longitudinal Waves"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q24",
+        "Question": "A ray of light strikes a plane mirror at an angle of incidence of 20°.\nThe angle of incidence is then increased by 5°.\nWhat is the new angle between the incident ray and the reflected ray? ",
+        "Options": {
+            "A": "10°",
+            "B": "25°",
+            "C": "45°",
+            "D": "50°"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Reflection of Light"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q25",
+        "Question": "A parallel beam of light is incident on a thin diverging lens.\nThe focal length of the lens is FL, as shown in the diagram.\nWhich ray diagram shows the beam after it has passed through the lens? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z3acscdKsiQOHFRv6MZ2JCobEYX594k0aIeLU",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z2kzj2ghqhJVFQScDvk5PdH13CLaW7s49w2yK",
+        "answer": "C",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Ray Diagrams"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q26",
+        "Question": "The following lists show colours of the spectrum.\nWhich list shows these colours in order of increasing frequency? ",
+        "Options": {
+            "A": "blue, violet, red, orange, yellow, green",
+            "B": "green, blue, violet, red, orange, yellow",
+            "C": "red, orange, violet, yellow, green, blue",
+            "D": "red, orange, yellow, green, blue, violet"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light", 
+        "Sub_topic": "Dispersion of Light"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q27",
+        "Question": "Four sound waves are displayed on the screen of a cathode-ray oscilloscope.\nWhich sound wave gets louder and has a pitch that decreases?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zb8pibNH08NcVULWlqYhG3HTwv2kgZQ4ap9rA",
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.6 Uses of Oscilloscope",
+        "Sub_topic": "Uses of an Oscilloscope"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q28",
+        "Question": "A student investigates a permanent magnet by suspending paper clips from the magnet as shown.\nWhich statement is correct? ",
+        "Options": {
+            "A": "Each paper clip has a S-pole at the top and a N-pole at the bottom when suspended from the permanent magnet.",
+            "B": "If the paper clips are made of soft iron they become demagnetised when the permanent magnet is removed.",
+            "C": "If the paper clips are made of steel they become demagnetised when the permanent magnet is removed.",
+            "D": "More paper clips can be suspended from the N-pole."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zkil2q60IV0zt2ngpB3LPE6aUfRdhXCulYOq9",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+        "Sub_topic": "Magnetism"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q29",
+        "Question": "Two vertical wires pass at right-angles through a piece of card.\nThere is a large current in each wire in the direction shown.",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zjR8IjStcX8yYHmo51UqruQTa7KGeAMI4dltn",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zhHrdeyJIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+        "Sub_topic": "Plotting Magnetic Fields"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q30",
+        "Question": "The diagram shows a car ignition switch and starter motor.\nThe ignition switch is in a circuit with long, thin wires.\nThe starter motor is in a circuit with short, thick wires.\nWhat is the explanation for the choice of wires?",
+        "Options": {
+            "A": "Each circuit needs to contain the same total mass of wire.",
+            "B": "Thicker wires heat up more quickly when the relay is switched on.",
+            "C": "Thin wires have lower resistances.",
+            "D": "The ignition switch circuit carries a smaller current than the starter motor circuit."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z8q6cxJZaDLRZ7jgHrGusIFzkVvtJKxAW9CB2",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Electric Motors"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q31",
+        "Question": "The diagram shows some white plastic beads in a clear plastic box.\nThe box is shaken and the beads rub against the box.\nThe beads stick to the inside surface of the box.\nWhich row is a possible explanation for this? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zcsCMO5pK7ZEyONe0p8bwsgr1W3GYBAjkUa5R",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zp9jwxlqyBFVJk7nvOgGHifquh0ZCYbIW9Eoj",
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Static Electricity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q32",
+        "Question": "Which unit is the same as a volt?",
+        "Options": {
+            "A": "ampere / ohm",
+            "B": "ampere / watt",
+            "C": "ohm / ampere",
+            "D": "watt / ampere"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electromotive Force & Potential Difference"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q33",
+        "Question": "The voltage / current graph for a metal wire is shown.\nWhat does the gradient of this graph represent?",
+        "Options": {
+            "A": "the charge passing through the wire",
+            "B": "the e.m.f. of the battery connected to the wire",
+            "C": "the energy produced in the wire",
+            "D": "the resistance of the wire"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zXilmanKzBKzn5FI9ONAxRUQmhuZb36vP1tMa",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Resistance of a Wire"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q34",
+        "Question": "What is the symbol for a device that measures current?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zssDJptBvNek8RAbHLUPnuEOD24qIzC0iQcGf",
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q35",
+        "Question": "The cable to an electric cooker contains a live wire, a neutral wire and an earth wire.\nWhen the cooker is working correctly, in which wires are the currents equal?",
+        "Options": {
+            "A": "the live, the neutral and the earth",
+            "B": "the live and the earth only",
+            "C": "the neutral and the earth only",
+            "D": "the neutral and the live only"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.4 Practical Electricity",
+        "Sub_topic": "Electrical Power"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q36",
+        "Question": "The coil of a simple motor lies between the poles of a permanent magnet.\nThe coil rotates about its axis when there is a current in it.\nWhat decreases the frequency of rotation of the coil? ",
+        "Options": {
+            "A": "increasing the number of turns in the coil",
+            "B": "reversing the current",
+            "C": "using a lower voltage supply",
+            "D": "using a stronger magnet"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects",
+        "Sub_topic": "Electric Motors"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q37",
+        "Question": "A beam of electrons travels through a vacuum.\nThe beam passes between the poles of a magnet as shown.\nWhat is the direction of the conventional current and what is the direction of the magnetic field? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zJEpHBoTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zk4F4uz0IV0zt2ngpB3LPE6aUfRdhXCulYOq9",
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects",
+        "Sub_topic": "Magnetic Effect of a Current"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q38",
+        "Question": "A teacher uses the circuit shown.\nThe identical lamps X and Y are connected to a low voltage a.c. power supply by high resistance transmission wires.\nBoth lamps are switched on.\nLamp X is then switched off.\nLamp Y stays switched on.\nWhat happens to the voltage and the power supplied to lamp Y? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zB00rAEVILNasPZrVwFdSxtD01KRWb9GJMv8u",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zNTtNPo2cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Potential Difference in Circuits"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q39",
+        "Question": "A car battery supplies a current in one direction.\nA current in the opposite direction recharges the battery.\nWhich circuit recharges the battery, using an alternating current (a.c.) supply and a diode? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zNTtNPo2cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "The A.C. Generator"
+    },
+    {
+        "QuestionNumber": "May-June/11/2019/Q40",
+        "Question": "A neutral atom of boron contains 5 electrons and 5 protons.\nThe nucleon number (mass number) of the atom is 11.\nHow many neutrons are there in the atom?",
+        "Options": {
+            "A": "1",
+            "B": "5",
+            "C": "6",
+            "D": "11"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.1 The Nuclear Model of the Atom",
+        "Sub_topic": "The Atom"
+    }
+]

@@ -1,0 +1,658 @@
+[
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q1",
+        "Question": "The diagram shows the level of liquid in a measuring cylinder.\nWhat is the volume of the liquid?",
+        "Options": {
+            "A": "20.4 cm3",
+            "B": "24.0 cm3",
+            "C": "24.5 cm3",
+            "D": "25.0 cm3"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zKF2QzFOe4XR8oMp7i3dfDsVxyghJUulNLv15",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Measuring Mass & Weight"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q2",
+        "Question": "The diagram shows the distance-time graph of a car.\nThe car is travelling along a straight road up a hill.\nWhich quantity for the car is constant and greater than zero?",
+        "Options": {
+            "A": "acceleration",
+            "B": "displacement",
+            "C": "gravitational potential energy",
+            "D": "kinetic energy"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zNJZPtvr2cHTZDdfSt1O9ozyj2pmNhkAqGRwx",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q3",
+        "Question": "A distance-time graph and a speed-time graph show the motion of an object.\nHow are the speed and the acceleration of the object determined from these graphs?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zjrM54etcX8yYHmo51UqruQTa7KGeAMI4dltn",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q4",
+        "Question": "A student finds that the mass of a rock is 65 g.\nShe pours 30 cm3 of water into a measuring cylinder.\nShe places the rock in the water so that the water covers the rock completely.\nThe water level rises to 55 cm3.\nWhat is the density of the rock?",
+        "Options": {
+            "A": "0.38 g / cm^3",
+            "B": "1.2 g / cm^3",
+            "C": "2.2 g / cm^3",
+            "D": "2.6 g / cm^3"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q5",
+        "Question": "A small submarine of mass 1000 kg sinks in water with a constant speed of 2.0 m / s.\nWhat is the resultant force exerted on the submarine as it sinks?",
+        "Options": {
+            "A": "0",
+            "B": "500 N downwards",
+            "C": "2000 N downwards",
+            "D": "9800 N downwards"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z7N0tJtndVebztALM12nhXU5sumxB64N0kFrT",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q6",
+        "Question": "A student drops, from rest, a light ball in air.\nThe ball experiences some air resistance as it falls.\nWhat happens to the velocity and to the acceleration of the ball during the first few seconds after release?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z3nyHcLKsiQOHFRv6MZ2JCobEYX594k0aIeLU",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q7",
+        "Question": "The stopping distance of a car travelling at a certain speed is measured in four different situations.\n\u2022 on a dry road with new tyres\n\u2022 on a dry road with old, worn tyres\n\u2022 on a wet road with new tyres\n\u2022 on a wet road with old, worn tyres\nThe results are shown.\nWhich two results are possible measurements on the dry road with old, worn tyres?",
+        "Options": {
+            "A": "W and X",
+            "B": "X and Y",
+            "C": "X and Z",
+            "D": "Y and Z"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zx9QTRCwWL1OPFWpMnj5YBRUb3vfAKoVJSH6q",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q8",
+        "Question": "A spring has a length of 9.0 cm when loaded with a 200 g mass. The extension-mass graph for\nthe spring is shown.\nThe 200 g mass is replaced with a 100 g mass.\nWhat is the new length of the spring?",
+        "Options": {
+            "A": "7.0 cm",
+            "B": "8.0 cm",
+            "C": "9.0 cm",
+            "D": "10 cm"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zUiwm6d47CAenGyKIR35sQkFbLzpahNMxdt0H",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q9",
+        "Question": "The International Space Station orbits the Earth.\nWhich arrow shows the direction of the force on the International Space Station when it is at\npoint X?\nX\nB D\nC\nA\nEarth\norbit",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zUiwm6d47CAenGyKIR35sQkFbLzpahNMxdt0H",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q10",
+        "Question": "Which expression is equal to impulse?",
+        "Options": {
+            "A": "change in momentum ÷ time",
+            "B": "change in momentum",
+            "C": "force x distance moved in the direction of the force",
+            "D": "force ÷ area"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.6 Momentum",
+        "Sub_topic": "Momentum & Impulse"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q11",
+        "Question": "A box with mass 4.0 kg is pulled from rest along a horizontal floor by a constant force F.\nA constant frictional force of 1.0 N acts on the box.\nWhen the box has travelled 1.0 m its velocity is 1.5 m / s.\nThe kinetic energy of the box is equal to the work done on the box.\nWhat is force F?",
+        "Options": {
+            "A": "2.0 N",
+            "B": "3.5 N",
+            "C": "4.0 N",
+            "D": "5.5 N"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q12",
+        "Question": "The diagram shows a curved track. A ball is released from the position shown.\nAt which point is the gravitational potential energy stored in the ball the maximum?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zNH9t5W2cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q13",
+        "Question": "How does an oil-fired power station differ from a nuclear power station?",
+        "Options": {
+            "A": "Gases emitted by hot fuel are emitted into the atmosphere.",
+            "B": "Steam is produced in a boiler using hot fuel.",
+            "C": "The hot steam is used to turn a turbine.",
+            "D": "Turbines are used to drive an electric generator."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q14",
+        "Question": "An electric motor is used to lift a load at a constant speed.\npower\nsupply\nelectric motor\nload\nThe gravitational potential energy (GPE) stored in the load increases.\nThe moving load also has stored kinetic energy (KE).\nWhich expression is used to calculate the efficiency of the motor when the load is being lifted at a\nconstant rate?",
+        "Options": {
+            "A": "efficiency = GPE gained per second / KE gained per second",
+            "B": "efficiency = GPE gained per second / supplied power",
+            "C": "efficiency = power supplied / GPE gained per second",
+            "D": "efficiency = power supplied / KE gained per second"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zTsllT08D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q15",
+        "Question": "A battery delivers 3000 J of energy to a small 2.0 W electric motor before the battery stops\nworking.\nFor how long is the motor switched on?",
+        "Options": {
+            "A": "1500 minutes",
+            "B": "100 minutes",
+            "C": "50 minutes",
+            "D": "25 minutes"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q16",
+        "Question": "A man finds it difficult to hammer a wooden post into the ground.\nHow could he make the post go in more easily?",
+        "Options": {
+            "A": "Make the bottom of the post pointed.",
+            "B": "Make the top of the post pointed.",
+            "C": "Use a longer post.",
+            "D": "Use a wider post."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q17",
+        "Question": "Which diagram shows the names of the changes of state that correspond to the directions of the\narrows?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zTsh7Q98D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q18",
+        "Question": "A sealed cylinder containing gas is left in direct sunlight.\nEventually the cylinder explodes.\nHow is this explained in terms of the behaviour of the gas particles?",
+        "Options": {
+            "A": "Each particle gets bigger and they collide with each other more often.",
+            "B": "Each particle gets bigger and they collide harder with the cylinder.",
+            "C": "The particles gain kinetic energy and hit the cylinder harder and more often.",
+            "D": "The particles lose kinetic energy and they hit the cylinder harder and more often."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q19",
+        "Question": "A gas is trapped inside a cylinder by a movable piston. The length of the gas column is 20 cm and\nthe pressure inside the cylinder is p.\nThe piston is pulled out a distance of 30 cm, so that the length of the gas column is now 50 cm.\nThe temperature of the gas does not change.\nWhat is the new pressure of the gas?",
+        "Options": {
+            "A": "0.40 p",
+            "B": "0.60 p",
+            "C": "1.5 p",
+            "D": "2.5 p"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zTsh7Q98D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q20",
+        "Question": "Pot X and pot Y are both in a cool room.\nPot X contains hot water below its boiling point.\nPot Y is identical to pot X but contains water that is kept boiling by a hotplate underneath it.\nWhat happens to the average kinetic energy of the particles in the liquid water in pot X and to the\naverage kinetic energy of the particles in the liquid water in pot Y?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zb2IXj2hH08NcVULWlqYhG3HTwv2kgZQ4ap9r",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zU3jcT747CAenGyKIR35sQkFbLzpahNMxdt0H",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q21",
+        "Question": "Solid metals are good thermal conductors.\nHow closely packed are their particles and do the metals contain free electrons?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zU3jcT747CAenGyKIR35sQkFbLzpahNMxdt0H",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q22",
+        "Question": "Cotton wool is a good thermal insulator.\nIt consists of many threads of cotton which are tangled together to make a material which can\neasily be pulled apart or compressed. The diagram shows the structure of cotton wool.\nWhy is cotton wool a good thermal insulator?",
+        "Options": {
+            "A": "Each thread is very thin.",
+            "B": "It has a large surface area because it is made of many threads.",
+            "C": "It has a low density because of the trapped air.",
+            "D": "It traps air and prevents convection."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zU3jcT747CAenGyKIR35sQkFbLzpahNMxdt0H",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q23",
+        "Question": "A metal kettle is heated on a grid above red-hot glowing coal.\nWhat are the main thermal energy transfers through the bottom of the kettle and within the water?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zU3jcT747CAenGyKIR35sQkFbLzpahNMxdt0H",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zJqxiElTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q24",
+        "Question": "The diagram shows two waveforms.\nWhich arrow shows the wavelength of a longitudinal wave?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zJqxiElTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q25",
+        "Question": "A bell, on a wall outside a classroom, rings. A student is standing at point X shown on the view\nfrom above.\nThe door of the classroom is closed and the student in the room at X hears the bell ring.\nThe door is opened, and the sound heard by the student from the bell is louder.\nWhat causes the sound reaching the student to be louder?",
+        "Options": {
+            "A": "diffraction",
+            "B": "dispersion",
+            "C": "reflection",
+            "D": "refraction"
+        },
+        "image_q": "",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q26",
+        "Question": "A boy stands beside a girl in front of a large vertical plane mirror. They are equal distances from\nthe mirror, as shown. The boy sees an image of the girl.\nWhere is the girl\u2019s image?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zrDWsI0a20GbPEguFOR8J3tSdWTNnM1ehIcil",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q27",
+        "Question": "Light travelling in air is incident on a water surface.\nThe refractive index of water is 1.3 and the angle of refraction in the water is 40°.\nWhat is the angle of incidence in the air?",
+        "Options": {
+            "A": "30°",
+            "B": "50°",
+            "C": "52°",
+            "D": "57°"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q28",
+        "Question": "The diagram shows a ray of light passing through a triangular glass block.\nWhich angle is the critical angle of light in glass?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zdXDGz8Yfit9Db5ROIxGAYpCzaePVF6Joq8wS",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q29",
+        "Question": "A lens is used to produce a magnified image, as shown in the scale diagram.\nWhat is the linear magnification produced by the lens?",
+        "Options": {
+            "A": "0.33",
+            "B": "3.0",
+            "C": "4.0",
+            "D": "6.0"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zdXDGz8Yfit9Db5ROIxGAYpCzaePVF6Joq8wS",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q30",
+        "Question": "Ultraviolet radiation is a component of the electromagnetic spectrum.\nWhich application uses ultraviolet radiation?",
+        "Options": {
+            "A": "Bluetooth technology",
+            "B": "prenatal scanning",
+            "C": "sterilising water",
+            "D": "thermal imaging"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q31",
+        "Question": "A student rubs different rods held in his hand.\nWhich rod gains a large electrostatic charge?",
+        "Options": {
+            "A": "a polythene rod rubbed with a steel magnet",
+            "B": "a polythene rod rubbed with a woollen duster",
+            "C": "an iron rod rubbed with a steel magnet",
+            "D": "an iron rod rubbed with a woollen duster"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q32",
+        "Question": "Two permanent magnets are placed side by side in four different arrangements.\nIn which arrangements do the magnets repel each other?",
+        "Options": {
+            "A": "1 and 2",
+            "B": "1 and 4",
+            "C": "2 and 3",
+            "D": "3 and 4"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zqHaf3TAm7BUuds9WL3RE8exCVHpg4vYSyaOX",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q33",
+        "Question": "Which graph shows how the current changes when the voltage across a resistor of constant resistance is varied?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z7A5dr7ndVebztALM12nhXU5sumxB64N0kFrT",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q34",
+        "Question": "Two identical resistors are connected first in series and then in parallel.\nThe two resistors in series are connected to a power supply and the current is Is.\nThe parallel combination is connected to the same power supply and the current supplied is Ip.\nWhat is the ratio Ip/Is?",
+        "Options": {
+            "A": "0.25",
+            "B": "0.50",
+            "C": "2.0",
+            "D": "4.0"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Newton's First Law"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q35",
+        "Question": "The output of an a.c. generator is connected to a lamp.\nThe coil of the generator is rotated at a constant rate which makes the lamp flash twice every second.\nThe coil is then rotated at half the rate of rotation.\nWhat happens to the maximum brightness of the lamp and how many times does the lamp flash every second?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zqhIu4SAm7BUuds9WL3RE8exCVHpg4vYSyaOX",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Newton's Second Law"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q36",
+        "Question": "Which device uses the magnetic effect of an electric current?",
+        "Options": {
+            "A": "compass",
+            "B": "fuse",
+            "C": "loudspeaker",
+            "D": "magnifying glass"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q37",
+        "Question": "A wire is placed at right angles to a uniform magnetic field.\nThere is a current in the wire and it experiences a force.\nBeams of alpha-particles, beta-particles and neutrons are fired into the magnetic field in the same direction as the conventional current in the wire.\nWhich beams experience a force that is initially in the same direction as the force experienced by the current-carrying wire?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zgmpj8RiYslNhwU2Zo7On0RdvQfepEKkFuc95",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zwdDfTGyEvsxCXYz9rldjIQ0TUe4F8DAbNK7B",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q38",
+        "Question": "The diagram shows the trace produced on the screen of an oscilloscope due to an alternating voltage input.\nThe time-base on the oscilloscope is set to 4 ms / cm.\nWhat does the trace look like when the time base is set to 2 ms / cm?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z8yxfKdZaDLRZ7jgHrGusIFzkVvtJKxAW9CB2",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zh4ZBVdJIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q39",
+        "Question": "The half-life of a radioactive isotope is 2.5 minutes.\nThis isotope is the only radioactive isotope in a radioactive sample.\nBetween time t = 0 and t = 7.5 minutes, the mass of this isotope in the sample decreases by 70 μg.\nWhat is the mass of this isotope at t = 0?",
+        "Options": {
+            "A": "75 μg",
+            "B": "80 μg",
+            "C": "210 μg",
+            "D": "560 μg"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q40",
+        "Question": "When observed on the Earth, the redshift of the light from galaxy X is smaller than the redshift of\nthe light from galaxy Y.",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3za0bFHFZ6gI0nwAul8eLZVQmPFyJShNxYb3rt",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    }
+]

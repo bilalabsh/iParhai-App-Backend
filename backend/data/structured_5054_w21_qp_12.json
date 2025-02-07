@@ -1,0 +1,658 @@
+[
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q1",
+        "Question": "A boy starts at P and walks 3.0 m due north from P to Q and then 4.0 m due east from Q to R.\nWhat is the shortest distance that he must now walk to have an overall displacement of zero?",
+        "Options": {
+            "A": "3.0 m",
+            "B": "4.0 m",
+            "C": "5.0 m",
+            "D": "7.0 m"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zTYQsW08D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q2",
+        "Question": "A student investigates the motion of a ball falling through the air.\nWhich quantity is a vector?",
+        "Options": {
+            "A": "the diameter of the ball",
+            "B": "the gravitational force on the ball",
+            "C": "the distance from which the ball is dropped",
+            "D": "the speed at which the ball hits the ground"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Circular Motion"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q3",
+        "Question": "A skier slides down a slope. The diagram shows how his speed varies with time.\nWhat is his average acceleration during the 6.0 s?",
+        "Options": {
+            "A": "2.2 m / s^2",
+            "B": "4.3 m / s^2",
+            "C": "8.0 m / s^2",
+            "D": "13.0 m / s^2"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zIll3wl9D5VPezyqMtkOHl7mWohTFJfCp0BQK",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q4",
+        "Question": "A solid object, immersed in water, hangs from an elastic thread. Three forces act on the object: its weight W, the tension in the thread T, and a force F from the water.\nWhich equation is correct when the object is stationary?",
+        "Options": {
+            "A": "F + W = 0",
+            "B": "F - T = 0",
+            "C": "F - W - T = 0",
+            "D": "F - W + T = 0"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zh8SA26nJIEGCfp04UgoDAMtVrSuNKWn9QcT6",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q5",
+        "Question": "The diagram shows a car going around a circular track at constant speed.\nWhich arrow shows the direction of the resultant force on the car?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z6oispFHkL29gGXfpjx4ivlhVYqDMEaBTWnoI",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q6",
+        "Question": "An object in a laboratory is used to determine the gravitational field strength g.\nWhich quantity is equal to g?",
+        "Options": {
+            "A": "the weight of the object",
+            "B": "the mass of the object",
+            "C": "the ( weight / mass ) of the object",
+            "D": "the ( mass / weight ) of the object"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Gravitational Potential Energy"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q7",
+        "Question": "A student takes measurements to find the density of a regularly shaped block.\nWhich formula is used to calculate the density of the block?",
+        "Options": {
+            "A": "density = mass / volume",
+            "B": "density = volume / mass",
+            "C": "density = weight / area",
+            "D": "density = weight / volume"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zCAiAqa7mw4fM63T9sjZezvbdH52WyJIAU1Qq",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.4 Density ",
+        "Sub_topic": "Density"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q8",
+        "Question": "Four solid objects are made from the same material and have equal volumes.\nWhich object is the most stable?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zhD2FDpJIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q9",
+        "Question": "A metal wire is stretched by a force F up to the limit of proportionality.\nWhich statement describes what happens when F is increased slightly?",
+        "Options": {
+            "A": "The wire breaks.",
+            "B": "The wire continues to extend but not in direct proportion to F.",
+            "C": "The wire continues to extend in direct proportion to F.",
+            "D": "The wire does not extend any further."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q10",
+        "Question": "Piston X is pushed into a hydraulic cylinder. Piston X produces a pressure PX in the liquid in the cylinder.\nThe diagram shows the cylinder viewed from above.\nThere are two other pistons, Y and Z, in the cylinder.\nThe pressures on piston Y and Z are PY and PZ.\nWhat is the relationship between PX, PY and PZ?",
+        "Options": {
+            "A": "PX = PY + PZ",
+            "B": "PX > PZ > PY",
+            "C": "PX < PZ < PY",
+            "D": "PX = PY = PZ"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zqKEqfDAm7BUuds9WL3RE8exCVHpg4vYSyaOX",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q11",
+        "Question": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm.\nThe piston is moved outwards. The length of the air column increases by 40 cm.\nThe temperature of the air remains constant.\nWhat is the new air pressure?",
+        "Options": {
+            "A": "p/2",
+            "B": "p/3",
+            "C": "2p",
+            "D": "3p"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zJlMmhbTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q12",
+        "Question": "A 60 kg ice-skater, travelling initially at 3.0 m / s, glides across a horizontal icy surface. The skater brakes and comes to rest after 5.0 m.\nThe work done against the braking force is the change in the kinetic energy of the skater.\nWhat is the braking force?",
+        "Options": {
+            "A": "18 N",
+            "B": "27 N",
+            "C": "54 N",
+            "D": "108 N"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Newton's First Law"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q13",
+        "Question": "Which equation is used to find the efficiency of an energy transfer?",
+        "Options": {
+            "A": "efficiency = useful energy output / total energy input",
+            "B": "efficiency = total energy input / useful energy output",
+            "C": "efficiency = energy converted to the required form / total power input",
+            "D": "efficiency = (energy converted to the required form) x (total energy input)"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q14",
+        "Question": "The diagram shows the inside of a refrigerator.\nWhen the refrigerator is first switched on, what happens to the air near the cooling unit?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zJlMmhbTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z2TwtAvihqhJVFQScDvk5PdH13CLaW7s49w2y",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Newton's First Law"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q15",
+        "Question": "What is the colour and what is the texture of a good absorber of infrared radiation?",
+        "Options": {
+            "A": "black and shiny",
+            "B": "black and dull",
+            "C": "white and shiny",
+            "D": "white and dull"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q16",
+        "Question": "Which temperatures are used as the lower and upper fixed points for a mercury-in-glass thermometer?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zyswxfM3M2a6zS5b4wV9PxWcdoqHBkNZRFtI8",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q17",
+        "Question": "Two liquid-in-glass thermometers have identical dimensions. One contains ethanol and the other an equal volume of mercury.\nOne contains ethanol and the other an equal volume of mercury.\nEthanol expands more than mercury for the same temperature rise.\nHow do the sensitivity and range of the ethanol thermometer compare to those of the mercury thermometer?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zyswxfM3M2a6zS5b4wV9PxWcdoqHBkNZRFtI8",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q18",
+        "Question": "Solar panels are used to heat water with a mass of 500 kg.\nThe total area of the solar panels is 10 m^2 and the average power output from each square metre of the panels is 300 W.The specific heat capacity of water is 4200 J / (kg °C).\nWhat is the increase in the water temperature after 8.0 hours?(Assume there is no heat loss.)",
+        "Options": {
+            "A": "0.69 °C",
+            "B": "4.1 °C",
+            "C": "5.1 °C",
+            "D": "41 °C"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q19",
+        "Question": "The graph is the temperature-time graph for a sample of wax that is heated so that it melts.\nThe mass of the wax is 200 g. Thermal energy is supplied to the wax at a constant rate of 12 000 J / minute.\nWhat is the specific latent heat of fusion of the wax?",
+        "Options": {
+            "A": "180 J / g",
+            "B": "240 J / g",
+            "C": "480 J / g",
+            "D": "600 J / g"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zeFnM0Xgy10m2aX9JbqkU8pYE6fRiPzSd7Clt",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q20",
+        "Question": "The temperatures of the water in four beakers are different and areas of the surfaces of the water are also different.\nIn which beaker is the rate of evaporation of the water greatest?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zeFnM0Xgy10m2aX9JbqkU8pYE6fRiPzSd7Clt",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q21",
+        "Question": "The diagram shows one wavefront of a wave as it travels from deep water to shallow water in a ripple tank.\nWhat happens as the wavefront moves into the shallow water?",
+        "Options": {
+            "A": "The speed of the wavefront increases.",
+            "B": "The speed of the wavefront decreases.",
+            "C": "The wavelength of the wave remains constant.",
+            "D": "The wavelength of the wave increases."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z1v3BBC5TP3Jxd6qKczmLYhu5BOeRspE0ywGU",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q22",
+        "Question": "Which example describes a transverse wave being refracted?",
+        "Options": {
+            "A": "infrared waves travelling in an optical fibre",
+            "B": "light waves from an object entering a magnifying glass",
+            "C": "ultrasound waves being used to clean jewellery",
+            "D": "water waves hitting a barrier"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q23",
+        "Question": "Light reflects from a plane mirror as shown.\nWhich row is always correct?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zYIvabFfxqKRhGN6DMkox90ZymwCTgArip8ba",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zjOQ1I9tcX8yYHmo51UqruQTa7KGeAMI4dltn",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q24",
+        "Question": "A piece of paper torn from an exercise book is shown.\nWhich process is being described?",
+        "Options": {
+            "A": "the formation of a virtual image by a diverging lens",
+            "B": "the formation of a virtual image by a converging lens",
+            "C": "the formation of a real image by a diverging lens",
+            "D": "the formation of a real image by a converging lens"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zOs2xmLrVaFSZzPx5OCQ762R0sXI8HbLrmpdf",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q25",
+        "Question": "A girl is long-sighted.\nWhich statement is correct?",
+        "Options": {
+            "A": "She sees close objects less clearly than a person with normal vision.",
+            "B": "She sees distant objects more clearly than a person with normal vision.",
+            "C": "The fault is corrected with a diverging lens.",
+            "D": "The image of a close object is formed in front of her retina."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q26",
+        "Question": "Light rays are deviated by a prism.\nThe deviation angle d is measured for light rays of different frequency, including blue light and red light.\nWhich graph of d against frequency is correct?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zX2glw9zBKzn5FI9ONAxRUQmhuZb36vP1tMaj",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zHOP4W3N1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q27",
+        "Question": "A satellite orbits the Earth at a height of 300 km above the surface. The speed of electromagnetic waves is 3.0 x 10^8 m / s.\nWhat is the minimum time taken for a radio signal transmitted from the Earth to reach the satellite?",
+        "Options": {
+            "A": "1.0 x 10^-6 s",
+            "B": "2.0 x 10^-6 s",
+            "C": "1.0 x 10^-3 s",
+            "D": "2.0 x 10^-3 s"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q28",
+        "Question": "Which of the following is most closely associated with echoes?",
+        "Options": {
+            "A": "focussing",
+            "B": "reflection",
+            "C": "refraction",
+            "D": "total internal reflection"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q29",
+        "Question": "An ultrasound scanner produces an image of an unborn baby.\nWhat does the scanner use to form an image of the baby?",
+        "Options": {
+            "A": "ultrasound absorbed by the baby",
+            "B": "ultrasound emitted by the baby",
+            "C": "ultrasound reflected by the baby",
+            "D": "ultrasound refracted by the baby"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zWd52mnIgGM7V1Ru3mr5Fnw2pPJev6yiTh4Zq",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q30",
+        "Question": "A small plotting compass is placed near to a bar magnet as shown.\nWhich diagram shows the direction in which the compass needle points?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z51fUBwmTXEWylompHDBYf4PGKaU2exNZLbMj",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zb93TmSH08NcVULWlqYhG3HTwv2kgZQ4ap9rA",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q31",
+        "Question": "A positively charged plastic rod is held near but not touching an insulated and previously uncharged metal ball. No charge leaves the rod.\nWhat are possible charges on the left-hand side and right-hand side of the ball?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zhFQA8PJIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zbJ8zSXH08NcVULWlqYhG3HTwv2kgZQ4ap9rA",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q32",
+        "Question": "Which circuit is connected to measure the current in the fixed resistor and the potential difference (p.d.) across the same resistor?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zHhh7DPkN1lG3zZ2IxQcUdsJov60rTXfFyuBC",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Gravitational Potential Energy"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q33",
+        "Question": "Quantity X and quantity Y have the same unit Z.\nX is the energy dissipated by a battery in driving unit charge round the complete circuit.\nY is the work done in a component in driving unit charge through the component.\nWhat are X, Y and Z?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zNKUmDc2cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy Stores & Transfers"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q34",
+        "Question": "A transformer with an efficiency of 100% has a primary voltage input of 600 V and a secondary voltage output of 240 V. The secondary coil is attached to a resistor of resistance 120 Ω.\nWhat is the power dissipated in the resistor and what is the current in the primary coil?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z6WNv6gkL29gGXfpjx4ivlhVYqDMEaBTWnoIk",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zJRyCAoTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q35",
+        "Question": "The diagram shows an alarm system in which the switch S is shown closed. The top circuit is arranged so that the electromagnet is positioned over the soft iron contact.\nWhat happens when the switch S is opened?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zJRyCAoTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zqolBoJAm7BUuds9WL3RE8exCVHpg4vYSyaOX",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Newton's First Law"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q36",
+        "Question": "The diagram shows an LED connected in a circuit with a resistor and an a.c. power supply of frequency 2.0 Hz.\nWhich statement is correct?",
+        "Options": {
+            "A": "The LED does not light.",
+            "B": "The LED flashes on twice each second and off twice each second.",
+            "C": "The LED flashes on four times each second and off four times each second.",
+            "D": "The LED stays on all the time."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zJfgR5tTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q37",
+        "Question": "Which statement about the production of electricity in a nuclear power station is correct?",
+        "Options": {
+            "A": "In the reactor, the main reaction occurs when protons hit uranium nuclei.",
+            "B": "The process taking place in the reactor is called nuclear fusion.",
+            "C": "The reactor produces energy to boil water and to produce steam.",
+            "D": "Carbon dioxide is the major waste product from the reactor."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q38",
+        "Question": "A radioactive sample contains an isotope that emits alpha particles.\nWhich quantity stays constant?",
+        "Options": {
+            "A": "the half-life of the isotope",
+            "B": "the mass of the sample",
+            "C": "the number of neutrons in the sample",
+            "D": "the rate of decay of the isotope"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q39",
+        "Question": "In the simple model of an atom, X orbits around Y.\nWhat are X and Y?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zJfgR5tTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z2TdwLukhqhJVFQScDvk5PdH13CLaW7s49w2y",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2021/Q40",
+        "Question": "How do the proton numbers (atomic numbers) and the nucleon numbers (mass numbers) of two different isotopes of the same element compare with each other?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zt7leMUb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    }
+]

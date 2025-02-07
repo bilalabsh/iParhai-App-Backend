@@ -1,0 +1,656 @@
+[
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q1",
+        "Question": "Which word is the name of a vector quantity?",
+        "Options": {
+            "A": "density",
+            "B": "displacement",
+            "C": "energy",
+            "D": "speed"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Scalars & Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q2",
+        "Question": "What is the size of the resultant of the two forces shown in the diagram?",
+        "Options": {
+            "A": "1.0 N",
+            "B": "3.5 N",
+            "C": "5.0 N",
+            "D": "7.0 N"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zx9IScwgWL1OPFWpMnj5YBRUb3vfAKoVJSH6q",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q3",
+        "Question": "What is the correct unit for the quantity shown? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zjsiXvYtcX8yYHmo51UqruQTa7KGeAMI4dltn",
+        "answer": "B",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Specific Latent Heat"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q4",
+        "Question": "A length of copper pipe, of uniform cross-section and several metres long, carries water to a tap.\nMeasurements are taken to determine accurately the volume of copper in the pipe.\nWhich instruments are used?",
+        "Options": {
+            "A": "micrometer and rule",
+            "B": "micrometer and calipers",
+            "C": "rule and tape",
+            "D": "tape and calipers"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zXZKCtIzBKzn5FI9ONAxRUQmhuZb36vP1tMaj",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q5",
+        "Question": "Part of a speed-time graph for two runners is shown.\nThey are running along the same track.\nWhich statement must be correct?",
+        "Options": {
+            "A": "Both runners started at the same moment.",
+            "B": "Runner 1 has a greater acceleration than runner 2.",
+            "C": "Runner 1 is moving faster than runner 2.",
+            "D": "The distance between the two runners stays constant."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zdKUwZMYfit9Db5ROIxGAYpCzaePVF6Joq8wS",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q6",
+        "Question": "The graph shows how the speed of a car varies with time.\nWhich statement about the acceleration of the car between the times 10 s and 20 s is correct?",
+        "Options": {
+            "A": "The acceleration decreases.",
+            "B": "The acceleration increases.",
+            "C": "The acceleration is constant, but not zero.",
+            "D": "The acceleration is zero."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zuhUVoU1AcuG8JrRHd0ZnxaWjlXMgteNL6Pk3",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Acceleration"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q7",
+        "Question": "In which descent is the acceleration equal to the acceleration of free fall g at all times?",
+        "Options": {
+            "A": "a bungee jumper leaping from a bridge",
+            "B": "a feather falling in a vertical tube that contains a vacuum",
+            "C": "a hailstone travelling to Earth at terminal velocity",
+            "D": "a sky-diver dropping from an aircraft towards the ground"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Freefall"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q8",
+        "Question": "A body slides down a frictionless slope, as shown.\nAs the body presses on the surface, the surface pushes back on the body.\nIn which direction does the surface push back on the body?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zZURmCawKnuFBL9aJTvbjrM5Q0eS3Ei1NOtwY",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q9",
+        "Question": "The Earth travels at constant speed in a circular orbit around the Sun.\nWhich arrows show the direction of the acceleration of the Earth and the direction of the velocity of the Earth?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zwCqn2eEvsxCXYz9rldjIQ0TUe4F8DAbNK7Bk",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z4gYEK8v1MeP3YRsUl8KnypV9qH0WfBTo7vbi",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Circular Motion"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q10",
+        "Question": "A student balances a non-uniform object on a pivot.\nTo do this, a weight is suspended near the left-hand end of the object, as shown.\nWhere is the centre of mass of the object?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z2WfmGihqhJVFQScDvk5PdH13CLaW7s49w2yK",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q11",
+        "Question": "A load L is suspended from two springs that are in parallel. The extension of each spring is x.\nThe springs are then arranged to hang vertically, one below the other.\nIn this new arrangement, what is the total extension of the two springs?",
+        "Options": {
+            "A": "1/2 x",
+            "B": "x",
+            "C": "2x",
+            "D": "4x"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3ztvGNi3b1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q12",
+        "Question": "The diagram shows three tubes P, Q and R.\nEach tube contains air trapped by a water column.\nWhich statement is correct?",
+        "Options": {
+            "A": "The pressure of the trapped air is equal in tubes P, Q and R.",
+            "B": "The pressure of the trapped air is greatest in tube Q.",
+            "C": "The pressure of the trapped air is greatest in tube R.",
+            "D": "The pressure of the trapped air is greatest in tube P."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zTxr5Ig8D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q13",
+        "Question": "Which graph shows the relationship between the pressure and the volume of a fixed mass of gas at constant temperature?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zqjGggrAm7BUuds9WL3RE8exCVHpg4vYSyaOX",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q14",
+        "Question": "An object X has mass m and velocity v.\nA second object Y has mass 2m and velocity 2v.\nWhat is the value of the ratio of (kinetic energy of Y / kinetic energy of X)?",
+        "Options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Kinetic Energy"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q15",
+        "Question": "Where is energy released by the fusion of hydrogen nuclei to form helium?",
+        "Options": {
+            "A": "in a nuclear power station",
+            "B": "in a radioactive isotope emitting alpha-particles",
+            "C": "in the core of the Earth",
+            "D": "in the core of the Sun"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q16",
+        "Question": "A student uses a newton meter to pull an object a distance d horizontally along a flat surface in a time of t.\nThe newton meter reading is F.\nWhat is given by the expression (F X d) / t?",
+        "Options": {
+            "A": "efficiency",
+            "B": "energy",
+            "C": "power",
+            "D": "work"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Power"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q17",
+        "Question": "A student is given a thermometer that reads 1 °C in pure melting ice and 101 °C in pure boiling water. She uses it to measure the temperature of some water before and after it is heated.\nHow does the rise in temperature of the water calculated from her results compare with the correct value?",
+        "Options": {
+            "A": "It is 1 °C lower.",
+            "B": "It is the same.",
+            "C": "It is 1 °C higher.",
+            "D": "It is 2 °C higher."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "Temperature & Pressure"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q18",
+        "Question": "A student makes four statements about evaporation and boiling.\n1 Both involve an increase in molecular separation.\n2 Both occur only at a fixed temperature.\n3 Both involve the absorption of thermal energy.\n4 Both occur throughout the liquid.\nWhich two statements are correct?",
+        "Options": {
+            "A": "1 and 4",
+            "B": "2 and 4",
+            "C": "1 and 3",
+            "D": "2 and 3"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Melting, Boiling & Evaporation"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q19",
+        "Question": "How is specific latent heat defined?",
+        "Options": {
+            "A": "the heat absorbed or emitted by unit mass during a change of a state without a temperature change",
+            "B": "the heat absorbed or emitted by unit mass during unit temperature change",
+            "C": "the heat absorbed or emitted during a change of a state without a temperature change",
+            "D": "the heat absorbed or emitted during unit temperature change"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Specific Latent Heat"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q20",
+        "Question": "A syringe containing air is sealed at one end. The piston is free to move.\nThe air is heated.\nWhat happens to the average distance between air molecules and the density of the air?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z2OgtCfhqhJVFQScDvk5PdH13CLaW7s49w2yK",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zozNT8QleUOQw6GXZ43txCNRF1AyvjJlpPHi0",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.4 Density",
+        "Sub_topic": "Density"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q21",
+        "Question": "A metal disc is heated to 600 °C and then lowered into a beaker of water.\nWhat happens to the mass of the metal disc and to the mass of the water in the beaker?\nmass of metal disc\nmass of water in beaker",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zNJeqw42cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "answer": "C",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Thermal Expansion"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q22",
+        "Question": "Which description defines the amplitude of a water wave in a ripple tank?",
+        "Options": {
+            "A": "half of the vertical distance between a trough and a peak",
+            "B": "the horizontal distance between adjacent peaks",
+            "C": "the horizontal distance between a trough and an adjacent peak",
+            "D": "the vertical distance between a trough and a peak"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.1 General Properties of Waves",
+        "Sub_topic": "Ripple Tank"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q23",
+        "Question": "Here are four statements about wavefronts.\n1 Wavefronts from a point source are straight lines.\n2 Wavefronts from a point source are circular.\n3 Wavefronts are parallel to the direction of energy movement.\n4 Wavefronts are perpendicular to the direction of energy movement.\nWhich two statements are correct?",
+        "Options": {
+            "A": "1 and 3",
+            "B": "1 and 4",
+            "C": "2 and 3",
+            "D": "2 and 4"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.1 General Properties of Waves",
+        "Sub_topic": "Features of Waves"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q24",
+        "Question": "An object O is placed in front of a plane mirror.I is the image formed.\nA ray from the top of the object is incident on the mirror at X.\nWhat happens to this ray?",
+        "Options": {
+            "A": "It reflects and passes through the bottom of O.",
+            "B": "It reflects and passes through the top of O.",
+            "C": "It reflects as though it came from the bottom of I.",
+            "D": "It reflects as though it came from the top of I."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zdfFhheYfit9Db5ROIxGAYpCzaePVF6Joq8wS",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Investigating Reflection"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q25",
+        "Question": "The diagram shows light passing from glass into air.\nWhat is the name of angle P?",
+        "Options": {
+            "A": "the angle of incidence",
+            "B": "the angle of reflection",
+            "C": "the angle of refraction",
+            "D": "the critical angle"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zdW5pgd0Yfit9Db5ROIxGAYpCzaePVF6Joq8w",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Reflection of Light"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q26",
+        "Question": "An object is placed in front of a converging lens of focal length 4.0 cm.\nThe height of the image is 6.0 cm.\nThe arrangement is shown on the scale diagram.\nWhat is the linear magnification produced by the lens?",
+        "Options": {
+            "A": "0.50",
+            "B": "1.5",
+            "C": "2.0",
+            "D": "6.0"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zNJEK3Ro2cHTZDdfSt1O9ozyj2pmNhkAqGRwx",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Linear Magnification"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q27",
+        "Question": "Which row shows the speed of sound in air (ca), liquid (cL) and solid (cs) in order from slowest to fastest?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zHdJi11N1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
+        "answer": "C",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Measuring the Speed of Sound"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q28",
+        "Question": "A man stands 80 m in front of a cliff face.\nHe makes a loud bang and listens for the echo.\nHe makes a loud bang once every second. He hears an echo exactly halfway between the bang that caused it and the next bang.\nWhat is the speed of sound?",
+        "Options": {
+            "A": "40 m / s",
+            "B": "80 m / s",
+            "C": "160 m / s",
+            "D": "320 m / s"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Reflection of Sound Waves"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q29",
+        "Question": "The diagram shows two magnetic field lines of the magnetic field around two bar magnets.\nWhich row shows the magnetic poles at end P and end Q of the two magnets?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zNP3ZC32cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zSSP6xMdwUojWCRXeZLvhJ5Qsp0cYSd6Ikyx2",
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+        "Sub_topic": "Magnetism"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q30",
+        "Question": "A metal plate X is attached to earth by a battery. The plate has a positive charge.\nA second metal plate Y is initially uncharged and connected to earth. This plate is positioned parallel to X.\nWhat happens as Y is brought closer to X?",
+        "Options": {
+            "A": "Electrons flow from Y to earth only.",
+            "B": "Electrons flow to Y from earth only.",
+            "C": "Protons flow from Y to earth and electrons flow to Y from earth.",
+            "D": "Protons flow to Y from earth and electrons flow from Y to earth."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zHhxe33XN1lG3zZ2IxQcUdsJov60rTXfFyuBC",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electric Fields"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q31",
+        "Question": "The diagram shows a metal lightning conductor attached to a building.\nWhy is the lightning conductor made of copper?",
+        "Options": {
+            "A": "Both positive and negative charges can flow through copper.",
+            "B": "Copper can be electrostatically charged.",
+            "C": "So the lightning conductor has a low electrical resistance.",
+            "D": "So the heat is conducted away quickly."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z8kbYvZaDLRZ7jgHrGusIFzkVvtJKxAW9CB2Q",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electrical Charge"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q32",
+        "Question": "Which symbol does not represent a power source?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zZGK4J5wKnuFBL9aJTvbjrM5Q0eS3Ei1NOtwY",
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q33",
+        "Question": "Resistors of different resistances are connected to a power supply in either a parallel circuit or a series circuit.\nWhich statement is correct?",
+        "Options": {
+            "A": "The current is the same in all resistors connected in parallel.",
+            "B": "The current is the same in all resistors connected in series.",
+            "C": "The voltage across each resistor is different for all resistors connected in parallel.",
+            "D": "The voltage across each resistor is the same for all resistors connected in series."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Resistance"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q34",
+        "Question": "An ammeter is connected to three resistors and a power supply.\nWhich arrangement of resistors gives the greatest ammeter reading?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zZz2rf5wKnuFBL9aJTvbjrM5Q0eS3Ei1NOtwY",
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Combined Resistance"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q35",
+        "Question": "A hotplate on an electric cooker contains two identical resistors.\nThe switch has three positions.\nposition 1 The two resistors are connected in series to the mains supply.\nposition 2 The two resistors are connected in parallel to the mains supply.\nposition 3 Just one resistor is connected to the mains supply.\nWhich positions correspond to the low, the medium and the high power settings? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z526b4pmTXEWylompHDBYf4PGKaU2exNZLbMj",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Power"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q36",
+        "Question": "A mains electric circuit is fitted with a circuit breaker rather than a fuse.\nWhere is the circuit breaker connected and what happens when the current is too large? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zz8cGrPgcbkVNoTdvFsgQWPxeBK7Ym3UfnLC4",
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Current in Circuits"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q37",
+        "Question": "Transformers are used to transmit electrical energy between power stations and transmission cables, as shown.\nWhat is the purpose of the transformer in the diagram?",
+        "Options": {
+            "A": "to decrease the current and the potential difference from the power station",
+            "B": "to decrease the current and increase the potential difference from the power station",
+            "C": "to increase the current and the potential difference from the power station",
+            "D": "to increase the current and decrease the potential difference from the power station"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3znpqMgA1GHk3Ss4LatWuqbDerNUhip86PcymT",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Transformers"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q38",
+        "Question": "A thermistor warms up as the current in it increases.\nWhich graph shows how the voltage V across the thermistor changes as the current I through it is increased?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zGgq0P6ci8gCLovzKwqaT0beUYRsdPQnEZ9Iu",
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q39",
+        "Question": "Radioactive substances are used as tracers in medical examinations.\nA liquid tracer is injected into a patient. A detector 20 cm above the patient shows where the radioactive substance is in the body.\nWhat is the best radioactive substance to use?",
+        "Options": {
+            "A": "an alpha-particle emitter with a half-life of a few hours",
+            "B": "an alpha-particle emitter with a half-life of a few years",
+            "C": "a gamma ray emitter with a half-life of a few hours",
+            "D": "a gamma ray emitter with a half-life of a few years"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "Uses of Radiation"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2019/Q40",
+        "Question": "An isotope of lead, Pb 212 82 , is radioactive.\nAfter three decays, two beta-particles and an alpha-particle have been emitted. Another radioactive isotope of lead is formed.\nWhat is the mass number (nucleon number) of the new isotope of lead?",
+        "Options": {
+            "A": "200",
+            "B": "208",
+            "C": "212",
+            "D": "216"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "Radioactive Decay"
+    }
+]

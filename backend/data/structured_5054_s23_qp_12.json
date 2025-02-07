@@ -1,0 +1,655 @@
+[
+    {
+        "QuestionNumber": "May-June/12/2023/Q1",
+        "Question": "In an experiment, a ball is rolled down a curved track that is about half a metre long.\nWhich measuring device is used to measure the length accurately?",
+        "Options": {
+            "A": "metre rule",
+            "B": "micrometer",
+            "C": "stop-watch",
+            "D": "tape measure"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zHhEP1AKN1lG3zZ2IxQcUdsJov60rTXfFyuBC",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Measuring Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q2",
+        "Question": "Which row describes acceleration, displacement, distance and speed?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zII2k1l9D5VPezyqMtkOHl7mWohTFJfCp0BQK",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q3",
+        "Question": "What is the size of the resultant of the two forces shown?",
+        "Options": {
+            "A": "1.0 N",
+            "B": "3.5 N",
+            "C": "5.0 N",
+            "D": "7.0 N"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zkgFVHx0IV0zt2ngpB3LPE6aUfRdhXCulYOq9",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q4",
+        "Question": "The curved line on the distance-time graph shows the motion of a toy car.\nThe straight line is the tangent to the curve at 10 s.\nWhat is the speed of the toy car at 10 s?",
+        "Options": {
+            "A": "0.3 m / s",
+            "B": "0.6 m / s",
+            "C": "1.7 m / s",
+            "D": "3.3 m / s"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z0XllADqocTj8VdSB4qDQ9IUz6afyw2JmGOMx",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q5",
+        "Question": "The diagrams show four balances, W, X, Y and Z.\nThe scales of all the balances are calibrated on the Earth to measure mass.\nWhich balances also measure mass correctly when used on the Moon?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zkgFVHx0IV0zt2ngpB3LPE6aUfRdhXCulYOq9",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q6",
+        "Question": "A spacecraft carries a probe to Mars where the gravitational field strength is 3.7 N / kg.\nThe weight of the probe on Mars is 370 N.\nThe gravitational field strength on Earth is 9.8 N / kg.\nWhat are the mass and the weight of the probe on Earth?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z4DYIRxv1MeP3YRsUl8KnypV9qH0WfBTo7vbi",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q7",
+        "Question": "A student determines the density of a liquid.\nWhich equipment does the student use?",
+        "Options": {
+            "A": "a balance and a ruler",
+            "B": "a balance and a measuring cylinder",
+            "C": "a beaker and a measuring cylinder",
+            "D": "a ruler and a beaker"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.4 Density ",
+        "Sub_topic": "Density"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q8",
+        "Question": "Newton's third law describes a pair of forces.\nWhich row shows whether the two forces are of the same type and whether they act on the same object?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z5XiwnNmTXEWylompHDBYf4PGKaU2exNZLbMj",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q9",
+        "Question": "The stopping distance of a car is the sum of the thinking distance and the braking distance.\nWhich factors affect the braking distance?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zBa95zEVILNasPZrVwFdSxtD01KRWb9GJMv8u",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q10",
+        "Question": "A load-extension graph for a spring is shown.\nWhich point is the limit of proportionality for the spring and what is the spring constant of the spring equal to?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zHc3SdhN1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zHc3SdhN1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q11",
+        "Question": "A uniform beam is pivoted at its midpoint.\nAn object weighing 40 N is placed on the beam 20 cm to the left of the pivot as shown.\nWhich force and position balances the system?",
+        "Options": {
+            "A": "20 N acting downwards, 40 cm to the right of the pivot",
+            "B": "20 N acting upwards, 40 cm to the right of the pivot",
+            "C": "50 N acting downwards, 10 cm to the left of the pivot",
+            "D": "50 N acting upwards, 10 cm to the left of the pivot"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z3C4F5TKsiQOHFRv6MZ2JCobEYX594k0aIeLU",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q12",
+        "Question": "A worker pulls a rope with a force P through a distance d in the direction of the force as shown.\nThis causes a block of weight W to move vertically upwards through a height h.\nHow much work is done by the worker?",
+        "Options": {
+            "A": "Ph",
+            "B": "Pd",
+            "C": "(P + W)h",
+            "D": "(P + W)d"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zqFsutaAm7BUuds9WL3RE8exCVHpg4vYSyaOX",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q13",
+        "Question": "A battery is connected in a circuit to light a lamp.\nWhat is the energy store in the battery?",
+        "Options": {
+            "A": "chemical",
+            "B": "electrostatic",
+            "C": "gravitational",
+            "D": "kinetic"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy Stores & Transfers"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q14",
+        "Question": "What is a property of both liquids and gases?",
+        "Options": {
+            "A": "They always fill their containers.",
+            "B": "They are incompressible.",
+            "C": "They can flow.",
+            "D": "They have particles in fixed positions."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q15",
+        "Question": "In an experiment, the volume of a gas in a cylinder is measured as the pressure of the gas is increased.\nThe values obtained are shown.\nWhat is a possible explanation for these results?",
+        "Options": {
+            "A": "After the pressure is doubled, gas starts leaking into the cylinder.",
+            "B": "After the pressure is doubled, gas starts leaking out of the cylinder.",
+            "C": "The temperature of the gas is constant.",
+            "D": "The temperature of the gas is increasing."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zqFsutaAm7BUuds9WL3RE8exCVHpg4vYSyaOX",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q16",
+        "Question": "The diagrams show examples of thermal expansion.\nIn which diagrams is the thermal expansion useful?",
+        "Options": {
+            "A": "P, Q and R",
+            "B": "P and Q only",
+            "C": "P only",
+            "D": "Q and R only"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zBqMLojVILNasPZrVwFdSxtD01KRWb9GJMv8u",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q17",
+        "Question": "Which statement about copper explains why it is a better thermal conductor than glass?",
+        "Options": {
+            "A": "Atomic vibration is passed on to neighbouring copper atoms slowly.",
+            "B": "Atoms move through the copper and pass on kinetic energy.",
+            "C": "There are density changes within the copper.",
+            "D": "There are free electrons in the copper."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q18",
+        "Question": "Which statement describes the transfer of thermal energy in a liquid by convection?",
+        "Options": {
+            "A": "A decrease in its density causes the heated liquid to rise.",
+            "B": "Free electrons carry energy large distances through the liquid.",
+            "C": "Infrared radiation passes through the liquid and transfers energy.",
+            "D": "Particles of the liquid vibrate and pass energy to neighbouring particles."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q19",
+        "Question": "Which characteristics describe the image formed by a vertical plane mirror?",
+        "Options": {
+            "A": "real and upside down",
+            "B": "virtual and upright",
+            "C": "real and larger than the object",
+            "D": "virtual and smaller than the object"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q20",
+        "Question": "A ray of light passes into a block of transparent material as shown.",
+        "Options": {
+            "A": "0.66",
+            "B": "1.15",
+            "C": "1.64",
+            "D": "1.83"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zBqMLojVILNasPZrVwFdSxtD01KRWb9GJMv8u",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q21",
+        "Question": "The diagrams show light incident on the straight edge of a semi-circular glass block after passing\nthrough it.\nWhich diagram shows refraction and an angle i equal to the critical angle of the glass?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3ztkN5pYb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Circular Motion"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q22",
+        "Question": "Which radioactive isotope can be used for measuring cracks or flaws in metal components?",
+        "Options": {
+            "A": "americium-241, an alpha emitter with a half-life of 432 years",
+            "B": "cobalt-60, a gamma emitter with a half-life of 5 years",
+            "C": "radium-223, an alpha emitter with a half-life of 11 days",
+            "D": "barium-137, a gamma emitter with a half-life of 3 minutes"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Measuring Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q23",
+        "Question": "Ultrasound is a type of sound wave that is not audible to a healthy human ear.\nWhich range of frequencies contains only ultrasound?",
+        "Options": {
+            "A": "30 Hz-3.0 kHz",
+            "B": "300 Hz-30 kHz",
+            "C": "3.0 kHz-3.0 MHz",
+            "D": "30 kHz-30 MHz"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q24",
+        "Question": "What proves that a metal bar is a permanent magnet?",
+        "Options": {
+            "A": "It attracts both ends of a compass needle.",
+            "B": "It attracts one end of another magnet.",
+            "C": "It conducts electricity.",
+            "D": "It repels one end of another magnet."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q25",
+        "Question": "The diagram shows a bar magnet and four labelled arrows.\nWhich arrow shows the direction of the magnetic field at the point where the arrow is shown?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zsyt9sNBvNek8RAbHLUPnuEOD24qIzC0iQcGf",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q26",
+        "Question": "A shoe becomes positively charged by friction when it rubs against a carpet.\nWhat happens as the shoe becomes charged?",
+        "Options": {
+            "A": "Negative electrons are transferred to the carpet.",
+            "B": "Negative electrons are transferred to the shoe.",
+            "C": "Positive electrons are transferred to the carpet.",
+            "D": "Positive electrons are transferred to the shoe."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Friction"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q27",
+        "Question": "A metal conductor is connected between the positive and negative terminals of a battery.\nWhich row gives the direction of movement of the particles that flow in the conductor and their\nname?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zsyt9sNBvNek8RAbHLUPnuEOD24qIzC0iQcGf",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q28",
+        "Question": "Three identical cells are connected in parallel to a resistor.\nWhat is the advantage of using three cells in parallel rather than using a single cell?",
+        "Options": {
+            "A": "Each cell produces more energy.",
+            "B": "Each cell supplies more charge.",
+            "C": "Each cell takes longer to discharge.",
+            "D": "The e.m.f. is greater than that of a single cell."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q29",
+        "Question": "A student has three 15 Ω resistors.\nShe connects the resistors together in different arrangements.\nWhat is the minimum resistance and what is the maximum resistance of the arrangements that\nthe student can produce?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zsyt9sNBvNek8RAbHLUPnuEOD24qIzC0iQcGf",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q30",
+        "Question": "The circuit diagram shows a variable resistor R connected in parallel to the lower section of a\npotential divider.\nThe resistance of R increases.\nWhat happens to the two voltmeter readings V1 and V2?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zHhx5fPGN1lG3zZ2IxQcUdsJov60rTXfFyuBC",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zHhx5fPGN1lG3zZ2IxQcUdsJov60rTXfFyuBC",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q31",
+        "Question": "The power consumption of a microwave oven is 1500 W.\nThe cost of 1.0 kW h of electrical energy is 24 cents.\nWhat is the cost of using the microwave oven for 10 minutes?",
+        "Options": {
+            "A": "6 cents",
+            "B": "36 cents",
+            "C": "60 cents",
+            "D": "360 cents"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q32",
+        "Question": "A coil of wire above a magnet is dropped. As the coil falls over the magnet, an e.m.f. is induced\nacross the coil.\nWhat does not affect the magnitude of the e.m.f. induced across the coil?",
+        "Options": {
+            "A": "changing the number of turns of wire in the coil",
+            "B": "changing the height h from which the coil is dropped",
+            "C": "changing the direction of the magnet, so the north pole is at the bottom",
+            "D": "changing the strength of the magnetic field from the magnet"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zGg3CQbci8gCLovzKwqaT0beUYRsdPQnEZ9Iu",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q33",
+        "Question": "The results of the alpha-particle scattering experiment give evidence for which of the following?",
+        "Options": {
+            "A": "nuclear fusion",
+            "B": "radioactive decay",
+            "C": "the existence of isotopes",
+            "D": "the size of the nucleus"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q34",
+        "Question": "A nucleus of an isotope of cobalt is represented by the symbol Co.59\n27\nWhat is the composition of this nucleus?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zhMO4tzJIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q35",
+        "Question": "The only stable isotope of gold, Au, has 79 protons and 118 neutrons in a nucleus of an atom.\nHow many electrons are there in a neutral atom of this isotope?",
+        "Options": {
+            "A": "39",
+            "B": "79",
+            "C": "118",
+            "D": "197"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q36",
+        "Question": "A sample of a radioactive isotope with a very long half-life is placed next to a detector. Sheets of different materials are inserted, one at a time, between the radioactive sample and the detector.\nThe background count rate is subtracted from the readings on the detector and the corrected count rates are recorded in the table.\nWhich types of radiation are emitted by the radioactive sample?",
+        "Options": {
+            "A": "alpha-particles and beta-particles only",
+            "B": "alpha-particles only",
+            "C": "beta-particles and gamma radiation only",
+            "D": "gamma radiation only"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zWN5eGHIgGM7V1Ru3mr5Fnw2pPJev6yiTh4Zq",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q37",
+        "Question": "In a fission reactor, which particle causes a uranium-235 nucleus to split?",
+        "Options": {
+            "A": "alpha-particle",
+            "B": "gamma ray",
+            "C": "neutron",
+            "D": "proton"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q38",
+        "Question": "What is the purpose of moderators in nuclear reactors?\nA to absorb all the neutrons in order to stop the chain reaction\nB to produce more neutrons in order to create a chain reaction\nC to remove thermal energy in order to control the chain reaction\nD to slow down neutrons in order to continue the chain reaction",
+        "Options": {
+            "A": "to absorb all the neutrons in order to stop the chain reaction",
+            "B": "to produce more neutrons in order to create a chain reaction",
+            "C": "to remove thermal energy in order to control the chain reaction",
+            "D": "to slow down neutrons in order to continue the chain reaction"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q39",
+        "Question": "In which region of the electromagnetic spectrum does the Sun radiate the most energy?",
+        "Options": {
+            "A": "infrared region",
+            "B": "microwave region",
+            "C": "radio wave region",
+            "D": "X-ray region"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2023/Q40",
+        "Question": "Four of the stages in the life cycle of a star, until it becomes a red giant, are shown.\nW Inward force of gravitational attraction is balanced by an outward force from its\ncentre.\nX Internal gravitational collapse produces an increase in temperature.\nY It expands.\nZ Most of the hydrogen has been converted to helium.\nIn which order do these stages occur, starting with the earliest?",
+        "Options": {
+            "A": "W→ X→ Y→ Z",
+            "B": "W→ X→ Z→ Y",
+            "C": "X→ W→ Y→ Z",
+            "D": "X→ W→ Z→ Y"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    }
+]

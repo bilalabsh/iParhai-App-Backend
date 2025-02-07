@@ -1,0 +1,649 @@
+[
+    {
+        "QuestionNumber": "May-June/12/2020/Q1",
+        "Question": "Which quantity is a vector? ",
+        "Options": {
+            "A": "acceleration",
+            "B": "distance",
+            "C": "speed",
+            "D": "time"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q2",
+        "Question": "The diagram shows the resultant R of a 3.0 N force and a 4.0 N force that act at a point P.\nThe angle between the 3.0 N force and the 4.0 N force can be any value from 0° to 90°. Which value of R is not possible? ",
+        "Options": {
+            "A": "4.0 N",
+            "B": "5.0 N",
+            "C": "6.0 N",
+            "D": "7.0 N"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zkjQ4jY0IV0zt2ngpB3LPE6aUfRdhXCulYOq9",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q3",
+        "Question": "What is measured using a micrometer? ",
+        "Options": {
+            "A": "area",
+            "B": "current",
+            "C": "length",
+            "D": "mass"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q4",
+        "Question": "Stop-watches are used to time the runners in a race. The stop-watches show the times recorded for the winner and another runner.\nWhat is the difference in time between the winner and the other runner? ",
+        "Options": {
+            "A": "0.4608 s",
+            "B": "6.08 s",
+            "C": "46.08 s",
+            "D": "608 s"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z9vCIzFgUpfCK2FezlSOE6BmcdvgrVqyPZMjh",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q5",
+        "Question": "Two cameras are a known distance apart. The exact time that a vehicle passes each of the cameras is recorded. What can be obtained from the information? ",
+        "Options": {
+            "A": "average acceleration of the vehicle",
+            "B": "average speed of the vehicle",
+            "C": "maximum acceleration of the vehicle",
+            "D": "maximum speed of the vehicle"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q6",
+        "Question": "A car of weight 11 000 N moves with constant velocity along a horizontal road. A driving force of 5000 N acts on the car. What is the force opposing the motion of the car? ",
+        "Options": {
+            "A": "5000 N",
+            "B": "6000 N",
+            "C": "11 000 N",
+            "D": "16 000 N"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q7",
+        "Question": "A man with an open parachute falls to Earth at constant speed. The following forces act:\nP the upward force of the parachute on the man\nQ the upward force of the man on the Earth\nR the downward force of the Earth on the parachute\nS the downward force of the man on the parachute\nWhich two forces are a Newton's third law pair? ",
+        "Options": {
+            "A": "P and Q",
+            "B": "P and R",
+            "C": "P and S",
+            "D": "Q and R"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q8",
+        "Question": "The diagram shows a motorcyclist leaning over in order to turn the corner to the left.\nWhich force causes him to turn? ",
+        "Options": {
+            "A": "left",
+            "B": "right",
+            "C": "up",
+            "D": "down"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3ze9TzKHXgy10m2aX9JbqkU8pYE6fRiPzSd7Cl",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q9",
+        "Question": "An object weighs 40 N on Earth, where the gravitational field strength is 10 N / kg. The object is taken to a planet where the gravitational field strength is 4.0 N / kg.\nWhich row is correct? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zhoQAIAJIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Gravitational Potential Energy"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q10",
+        "Question": "The diagram shows the equipment used to determine the density of a liquid.\nWhich equation is used to calculate the density of the liquid? ",
+        "Options": {
+            "A": "(mass of beaker and liquid - mass of beaker) / volume of liquid",
+            "B": "(mass of beaker and liquid - mass of liquid) / volume of liquid",
+            "C": "volume of liquid / (mass of beaker and liquid - mass of beaker) ",
+            "D": "volume of liquid / (mass of beaker and liquid - mass of liquid)"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z8kBFquZaDLRZ7jgHrGusIFzkVvtJKxAW9CB2",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zblTKDvH08NcVULWlqYhG3HTwv2kgZQ4ap9rA",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.4 Density ",
+        "Sub_topic": "Density"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q11",
+        "Question": "Which single item can be used to find the centre of mass of a plane lamina of irregular shape? ",
+        "Options": {
+            "A": "a balance",
+            "B": "a measuring tape",
+            "C": "a micrometer",
+            "D": "a vertical pin"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q12",
+        "Question": "A student makes a model toy which balances on the end of a metal rod.\nWhy are the weights needed? ",
+        "Options": {
+            "A": "They increase the pressure on the rod.",
+            "B": "They increase the weight of the model.",
+            "C": "They lower the centre of mass below the top of the rod.",
+            "D": "They raise the centre of mass above the top of the rod."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zO6l3WYOrVaFSZzPx5OCQ762R0sXI8HbLrmpd",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q13",
+        "Question": "An unstretched elastic cord of length 15.0 cm stretches by 4.0 cm when a weight of 6.0 N is suspended from it. The cord does not exceed the limit of proportionality.\nWhat is the total length of the cord when the weight is 3.0 N? ",
+        "Options": {
+            "A": "2.0 cm",
+            "B": "7.5 cm",
+            "C": "9.5 cm",
+            "D": "17.0 cm"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q14",
+        "Question": "An object is placed at different depths in liquids of different densities.\nIn which liquid and at what depth is the pressure on the object the greatest? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3ztkvQQQb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q15",
+        "Question": "A small vessel of volume 3.0 cm^3 contains air at a pressure of 100 kPa.\nThe small vessel is connected to a syringe.\nThe piston is fully inserted into the syringe.\nThe piston is moved slowly to the right so that the air in the syringe has a volume of 12 cm^3. The temperature of the air does not change.\nWhat is the pressure of the air in the syringe? ",
+        "Options": {
+            "A": "20 kPa",
+            "B": "25 kPa",
+            "C": "80 kPa",
+            "D": "100 kPa"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zgUfzbRiYslNhwU2Zo7On0RdvQfepEKkFuc95",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q16",
+        "Question": "A rocket of mass M when empty carries a mass M of fuel.\nThe rocket and fuel travel at speed v. nThe engine of the rocket is fired and all of the fuel is expelled. The speed of the rocket increases to 2v.\nWhat happens to the kinetic energy of the rocket? ",
+        "Options": {
+            "A": "It doubles.",
+            "B": "It halves.",
+            "C": "It increases by a factor of four.",
+            "D": "It stays the same."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q17",
+        "Question": "A car of mass 1000 kg is driven 200 m up an incline so that it rises 50 m vertically.\nThe acceleration of free fall g is 10 m / s^2.\nWhat is the gain in gravitational potential energy? ",
+        "Options": {
+            "A": "5000 J",
+            "B": "200 000 J",
+            "C": "500 000 J",
+            "D": "2 000 000 J"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zjHECDOUtcX8yYHmo51UqruQTa7KGeAMI4dlt",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Acceleration"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q18",
+        "Question": "In which situation is energy being released by the fusion of hydrogen nuclei to form helium? ",
+        "Options": {
+            "A": "in the decay of 14C used to date an object",
+            "B": "in a radioactive isotope emitting alpha-particles",
+            "C": "in the centre of the Earth",
+            "D": "in the centre of the Sun"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q19",
+        "Question": "The main stages in the operation of a coal-fired power station are listed. They are not in the correct order.\n1 The turbine turns a generator.\n2 Water in the boiler becomes hot.\n3 Steam turns a turbine.\n4 Burning coal produces thermal energy.\n5 Electromagnetic induction produces electrical energy.\n6 Steam is produced.\nThe flow chart shows the first two stages.\nWhat is the correct order for the remaining stages? ",
+        "Options": {
+            "A": "6 → 3 → 1 → 5",
+            "B": "6 → 1 → 3 → 5",
+            "C": "1 → 6 → 3 → 5",
+            "D": "6 → 3 → 5 → 1"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zWZ8kyrIgGM7V1Ru3mr5Fnw2pPJev6yiTh4Zq",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q20",
+        "Question": "In which situation is there no transfer of energy? ",
+        "Options": {
+            "A": "a car battery turning the starter motor",
+            "B": "a car moving along a horizontal road at constant speed",
+            "C": "a solar panel warming water",
+            "D": "a spacecraft orbiting the earth at constant height"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q21",
+        "Question": "The 200 V battery of an electric car is charged with a current of 33 A for 4.0 hours.\nThe efficiency of the charging process is 90%.\nHow much useable energy is transferred to the battery? ",
+        "Options": {
+            "A": "21 MJ",
+            "B": "86 MJ",
+            "C": "95 MJ",
+            "D": "106 MJ"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q22",
+        "Question": "In an experiment to measure the power output of a small steam engine, a known load is lifted by the engine.\nWhich two measuring instruments are also required? ",
+        "Options": {
+            "A": "measuring cylinder and thermometer",
+            "B": "measuring cylinder and metre rule",
+            "C": "metre rule and stop-watch",
+            "D": "stop-watch and thermometer"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Measuring Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q23",
+        "Question": "Four metal containers, with identical dimensions, are filled with water at 90 °C.\nAll the faces, except one, of each container are covered in a very good insulator.\nThe one exposed face on each container is painted either black or white.\nIn which container does the water cool the fastest? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z7c3T48undVebztALM12nhXU5sumxB64N0kFr",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q24",
+        "Question": "Thermal energy is used to turn water at 100 °C to steam at 100 °C.\nWhich of the following occurs?\n1 The forces between the molecules decrease.\n2 The speed of the molecules increases.\n3 The separation of the molecules increases. ",
+        "Options": {
+            "A": "1, 2 and 3",
+            "B": "1 and 2 only",
+            "C": "1 and 3 only",
+            "D": "2 and 3 only"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q25",
+        "Question": "The thermal energy produced by an electric heater in three minutes is used to melt wax. The solid wax is initially at its melting point of 60 °C. The specific latent heat of the wax is 220 J / g. The heater supplies 7700 J of thermal energy to the wax. Some of the wax melts.\nHow much wax melts? ",
+        "Options": {
+            "A": "0.58 g",
+            "B": "1.7 g",
+            "C": "12 g",
+            "D": "35 g"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q26",
+        "Question": "What always happens when the temperature increases? ",
+        "Options": {
+            "A": "A gas at constant pressure expands.",
+            "B": "A metal rod becomes longer, but its volume remains constant.",
+            "C": "A liquid contracts and then expands.",
+            "D": "The hole in the centre of a metal disc becomes smaller."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q27",
+        "Question": "Which row explains why a liquid has a fixed volume but does not have a fixed shape? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zaubX416gI0nwAul8eLZVQmPFyJShNxYb3rtv",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q28",
+        "Question": "The air in a sealed can is heated.\nWhich statement explains the increase in pressure inside the can? ",
+        "Options": {
+            "A": "The molecules collide with the walls of the can more frequently when the air is heated.",
+            "B": "The mass of the molecules is greater when the air is heated.",
+            "C": "There are more molecules per unit volume when the air is heated.",
+            "D": "The separation of molecules becomes greater when the air is heated."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q29",
+        "Question": "The diagram shows how the height above the ground of a rope transmitting a wave varies with distance from the source of vibrations at one instant in time.\nWhat is the amplitude of the wave shown? ",
+        "Options": {
+            "A": "30 cm",
+            "B": "34 cm",
+            "C": "72 cm",
+            "D": "74 cm"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z9v18e2VUpfCK2FezlSOE6BmcdvgrVqyPZMjh",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q30",
+        "Question": "A vibrator produces 12 wavelengths on the surface of water in 10 s. The spacing between the first crest and the third crest is 60 cm.\nWhat is the speed of the wave? ",
+        "Options": {
+            "A": "24 cm / s",
+            "B": "25 cm / s",
+            "C": "36 cm / s",
+            "D": "72 cm / s"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q31",
+        "Question": "The diagram shows a ray of light incident on the boundary between two mediums W and X.\nThe mediums have different refractive indexes.\nSome light is reflected and some passes along the surface between the two mediums. Angle y is greater than angle z.\nWhich statement is correct? ",
+        "Options": {
+            "A": "W has a greater refractive index than X and angle y is equal to the critical angle.",
+            "B": "W has a greater refractive index than X and angle z is equal to the critical angle.",
+            "C": "X has a greater refractive index than W and angle y is equal to the critical angle.",
+            "D": "X has a greater refractive index than W and angle z is equal to the critical angle."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zm5uFPrC30N68wTGXHgmd2EnzW1lyc7BPZoDt",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q32",
+        "Question": "Light enters a glass block at an angle of incidence i and it produces an angle of refraction r in the glass.\nSeveral different values of i and r are measured, and a graph is drawn of sin i against sin r.\nWhich graph is correct? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z4WHLwzv1MeP3YRsUl8KnypV9qH0WfBTo7vbi",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zsUMRTvBvNek8RAbHLUPnuEOD24qIzC0iQcGf",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q33",
+        "Question": "A converging glass lens is used to produce a virtual, magnified image.\nWhich ray diagram shows the rays passing through the converging lens? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z2dXCnvhqhJVFQScDvk5PdH13CLaW7s49w2yK",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q34",
+        "Question": "A metal lightning conductor is placed on the top of a tall building.\nThe conductor is connected to Earth.\nWhen a charged cloud passes over the building, the metal lightning conductor becomes positively charged.\nWhat happens to the lightning conductor to produce a positive charge at its top? ",
+        "Options": {
+            "A": "Electrons move downwards and protons move upwards in the conductor.",
+            "B": "Only electrons move in the conductor.",
+            "C": "Only protons move in the conductor.",
+            "D": "Protons in the air attach themselves to the conductor."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zYIDh181xqKRhGN6DMkox90ZymwCTgArip8ba",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q35",
+        "Question": "Two insulated and uncharged metal spheres X and Y are touching.\nA positively charged rod is held near X and then the spheres are moved apart.\nX now has a negative charge.\nWhat is the charge on Y? ",
+        "Options": {
+            "A": "negative and smaller than that on X",
+            "B": "negative and the same size as that on X",
+            "C": "positive and smaller than that on X",
+            "D": "positive and the same size as that on X"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zn8CsbgGHk3Ss4LatWuqbDerNUhip86PcymT2",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q36",
+        "Question": "A stationary negative charge in an electric field experiences an electric force in the direction shown.\nWhat is the direction of the electric field? ",
+        "Options": {
+            "A": "to the left",
+            "B": "to the right",
+            "C": "down the page",
+            "D": "up the page"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z4CHEUMv1MeP3YRsUl8KnypV9qH0WfBTo7vbi",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q37",
+        "Question": "A metal wire of length l and cross-sectional area A has resistance R.\nA second wire is made from the same metal. It has a length 2l and a cross-sectional area 4A.\nWhat is the resistance of the second wire? ",
+        "Options": {
+            "A": "8R",
+            "B": "2R",
+            "C": "R/2",
+            "D": "R/8"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q38",
+        "Question": "The diagram shows a circuit.\nWhat effect does closing the switch have on the readings of ammeters X and Y? ",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zUKiHBo47CAenGyKIR35sQkFbLzpahNMxdt0H",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zj3qkjBtcX8yYHmo51UqruQTa7KGeAMI4dltn",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q39",
+        "Question": "A rectangular current-carrying coil is pivoted between the poles of an electromagnet.\nWhich action does not, on its own, increase the size of the turning effect exerted on the coil? ",
+        "Options": {
+            "A": "increasing the current in the coils of the electromagnet",
+            "B": "increasing the current in the rectangular coil",
+            "C": "reversing the current in the electromagnet",
+            "D": "increasing the number of turns on the rectangular coil"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2020/Q40",
+        "Question": "The diagram shows a coil connected to a very sensitive ammeter. A magnet is next to the coil.\nWhich action results in a zero reading on the ammeter? ",
+        "Options": {
+            "A": "moving the coil and the magnet at the same speed in opposite directions",
+            "B": "moving the coil and the magnet at the same speed in the same direction",
+            "C": "moving the coil away from the stationary magnet",
+            "D": "moving the magnet towards the stationary coil"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3ztsIJW4b1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    }
+]

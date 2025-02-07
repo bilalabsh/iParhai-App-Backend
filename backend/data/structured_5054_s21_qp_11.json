@@ -1,0 +1,653 @@
+[
+    {
+        "QuestionNumber": "May-June/11/2021/Q1",
+        "Question": "A list of various quantities is shown.\nacceleration\ndisplacement\nforce\nlength\nmass\nvelocity\n\nHow many of these quantities are vectors?",
+        "Options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Scalars & Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q2",
+        "Question": "A student determines the circumference of a football.\nWhich instrument gives a reading that is the circumference of the football?",
+        "Options": {
+            "A": "calipers",
+            "B": "micrometer",
+            "C": "rule",
+            "D": "tape"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q3",
+        "Question": "A train sets off from a station at time t = 0.\nThe graph shows how the distance between the train and the station varies with time.\nWhich statement about the movement of the train between time t1 and t2 is correct?",
+        "Options": {
+            "A": "Its speed is decreasing and it is moving away from the station.",
+            "B": "Its speed is decreasing and it is moving towards the station.",
+            "C": "Its speed is increasing and it is moving away from the station.",
+            "D": "Its speed is increasing and it is moving towards the station."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zwBHggIEvsxCXYz9rldjIQ0TUe4F8DAbNK7Bk",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q4",
+        "Question": "A coin falls from rest through the air and eventually reaches a constant speed.\nThere is a resultant force acting on the coin due to the two forces P and Q shown in the diagram.\nWhat happens to force P and what happens to the resultant force before the coin reaches constant speed?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zHqUXF6N1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zJkbAsnTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q5",
+        "Question": "A satellite is shown moving around the Earth in a circular path at a constant speed.\nWhich arrow shows the direction of the force on the satellite?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zegFH9eNXgy10m2aX9JbqkU8pYE6fRiPzSd7C",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q6",
+        "Question": "Which row shows the mass and the weight of an object on the Earth's surface?\n[gravitational field strength g = 10 N / kg]",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zwUuTjdEvsxCXYz9rldjIQ0TUe4F8DAbNK7Bk",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q7",
+        "Question": "Water is added to a measuring cylinder containing 100 cm^3 of liquid paraffin.\n(The density of paraffin is 0.80 g / cm^3 and that of the water is 1.0 g / cm^3.)\nAs the water is added, the level of the paraffin rises to 150 cm^3. The paraffin and water do not mix.\nWhat finally is the total mass of liquid in the measuring cylinder?",
+        "Options": {
+            "A": "130 g",
+            "B": "140 g",
+            "C": "167 g",
+            "D": "175 g"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q8",
+        "Question": "A horizontal beam is pivoted at X. A mass of 200 g rests on the beam as shown. The centre of mass of the beam is 50 cm from the right-hand end of the beam.\nThe beam is balanced.\nWhat is the mass of the beam?",
+        "Options": {
+            "A": "80 g",
+            "B": "100 g",
+            "C": "400 g",
+            "D": "800 g"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zwdWYJ2ZEvsxCXYz9rldjIQ0TUe4F8DAbNK7B",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q9",
+        "Question": "Where on the graph is the limit of proportionality for an elastic solid?",
+        "Options": {
+            "A": "Between O and P",
+            "B": "At P",
+            "C": "Between P and Q",
+            "D": "At Q"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z49lcngv1MeP3YRsUl8KnypV9qH0WfBTo7vbi",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q10",
+        "Question": "A sealed gas syringe contains a fixed mass of gas.\nThe piston is moved and the volume of the gas doubles. The temperature of the gas does not change.\nWhat happens to the pressure of the gas?",
+        "Options": {
+            "A": "Halves",
+            "B": "No change",
+            "C": "Doubles",
+            "D": "Triples"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zTwx5AlX8D6JS9RV3BHr1QLfeCmylXFadkpEv",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q11",
+        "Question": "Which expression for pressure is correct?",
+        "Options": {
+            "A": "Force x Area",
+            "B": "Force ÷ Area",
+            "C": "Mass x Area",
+            "D": "Mass ÷ Area"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q12",
+        "Question": "At a depth d in sea-water, the total pressure experienced by a diver is 2P, where P is atmospheric pressure.\nAt which depth is the pressure 4P?",
+        "Options": {
+            "A": "1.5d",
+            "B": "2d",
+            "C": "3d",
+            "D": "4d"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q13",
+        "Question": "The work done by a force F on a body is calculated by multiplying F by a quantity q.\nWhat is q?",
+        "Options": {
+            "A": "The distance travelled in the direction of the force",
+            "B": "The distance travelled perpendicular to the direction of the force",
+            "C": "The velocity in the direction of the force",
+            "D": "The velocity in the direction perpendicular to the force"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q14",
+        "Question": "Some solar panels have a total area of 12 m^2.\nEach 1.0 m^2 of the panels receives 0.85 kJ of energy from the Sun in 1.0 s.\nThe efficiency of the panels is 16%.\nHow much power do they produce?",
+        "Options": {
+            "A": "1.6 kW",
+            "B": "2.2 kW",
+            "C": "64 kW",
+            "D": "160 kW"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q15",
+        "Question": "A copper rod is heated at one end.\nWhich statement describes how heat transfer occurs in the copper?",
+        "Options": {
+            "A": "Energetic copper molecules move from the cooler end to the hotter end.",
+            "B": "Energetic copper molecules move from the hotter end to the cooler end.",
+            "C": "Energetic free electrons move from the cooler end to the hotter end.",
+            "D": "Energetic free electrons move from the hotter end to the cooler end."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q16",
+        "Question": "The diagram shows a clinical thermometer.\nWhich factor affects the sensitivity of the thermometer?",
+        "Options": {
+            "A": "The constriction",
+            "B": "The diameter of the bore",
+            "C": "The length of the glass tube",
+            "D": "The thickness of the glass tube"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zwKcZc7EvsxCXYz9rldjIQ0TUe4F8DAbNK7Bk",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q17",
+        "Question": "Which row is correct for a thermocouple thermometer?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zToRHLY8D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q18",
+        "Question": "What is the heat capacity of a body?",
+        "Options": {
+            "A": "The amount of thermal energy that the body can absorb without melting",
+            "B": "The amount of thermal energy required to raise the temperature of the body by 1.0 °C",
+            "C": "The amount of thermal energy required to raise the temperature of 1.0 kg of the body by 1.0 °C",
+            "D": "The amount of thermal energy required to raise the temperature of 1.0 m³ of the body by 1.0 °C"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 2: Heat",
+        "Topic": "2.1 Heat Capacity",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q19",
+        "Question": "Which statement about water is correct?",
+        "Options": {
+            "A": "At the boiling point, water vapour molecules have the same kinetic energy as liquid water molecules",
+            "B": "Evaporation occurs only at the boiling point",
+            "C": "Water molecules become heavier when water freezes",
+            "D": "Water molecules lose all of their kinetic energy when water freezes"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 2: Heat",
+        "Topic": "2.2 States of Matter",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q20",
+        "Question": "A water wave in a ripple tank refracts as it moves from deep water into shallower water.\nWhat happens to the speed and to the frequency of the wave as it moves into shallower water?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zSZLihcdwUojWCRXeZLvhJ5Qsp0cYSd6Ikyx2",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zJmhtDRTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "answer": "A",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.1 Wave Properties",
+        "Sub_topic": "Refraction"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q21",
+        "Question": "Light refracts from a liquid into air as shown.\nThe refractive index for light moving from air to the liquid is 1.4.\nWhat is the angle of incidence in the liquid?",
+        "Options": {
+            "A": "22°",
+            "B": "37°",
+            "C": "41°",
+            "D": "45°"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zcoQ58fpK7ZEyONe0p8bwsgr1W3GYBAjkUa5R",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Refraction of Light",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q22",
+        "Question": "A ray of red light in air enters a semi-circular block.\nWhich diagram shows the partial reflection and the refraction of the ray?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zcoQ58fpK7ZEyONe0p8bwsgr1W3GYBAjkUa5R",
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Refraction of Light",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q23",
+        "Question": "Which statement about human vision is correct?",
+        "Options": {
+            "A": "In a normal eye, the image on the retina is magnified and upright",
+            "B": "In a long-sighted eye, distant objects form images in front of the retina",
+            "C": "Short-sighted eyes produce only virtual images",
+            "D": "Short-sight is corrected by the use of a diverging lens"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.3 Human Vision",
+        "Sub_topic": "Eye Defects"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q24",
+        "Question": "White light enters a prism and forms a spectrum.\nThe rays in the air are labelled.\nWhich diagram shows how the white light is dispersed by the prism?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zrQgD8ka20GbPEguFOR8J3tSdWTNnM1ehIcil",
+        "answer": "C",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Dispersion of Light",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q25",
+        "Question": "The sound from a ship is reflected by a cliff. An echo is heard by a sailor on the ship 4.0 s after the sound is made. The speed of sound in air is 320 m / s.\nHow far from the cliff is the ship?",
+        "Options": {
+            "A": "160 m",
+            "B": "640 m",
+            "C": "1280 m",
+            "D": "2560 m"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.5 Sound",
+        "Sub_topic": "Echo"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q26",
+        "Question": "End X of a metal rod attracts the North pole of a compass needle.\nWhich statement about the rod is correct?",
+        "Options": {
+            "A": "It is made of copper that is not initially magnetised",
+            "B": "It is made of copper with a South pole at X",
+            "C": "It is made of steel that is not initially magnetised",
+            "D": "It is made of steel with a North pole at X"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Magnetism",
+        "Topic": "4.1 Magnetic Properties",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q27",
+        "Question": "Which diagram shows the pattern and direction of the electric field lines near a positive charge?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z2aNi0lhqhJVFQScDvk5PdH13CLaW7s49w2yK",
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.2 Electric Fields",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q28",
+        "Question": "A positively charged rod is held close to an insulated metal sphere. The sphere is earthed as shown.\nThe earth connection is removed and then the rod is removed.\nWhich diagram shows the charges on the sphere after the rod is removed?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z8YvNbDZaDLRZ7jgHrGusIFzkVvtJKxAW9CB2",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zcVyhOQpK7ZEyONe0p8bwsgr1W3GYBAjkUa5R",
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.3 Charging by Induction",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q29",
+        "Question": "The diagram shows an electrostatic precipitator. It can be used to remove dust from air.\nWhat happens at the negative grid?",
+        "Options": {
+            "A": "Dust particles gain electrons",
+            "B": "Dust particles gain protons",
+            "C": "Dust particles lose electrons",
+            "D": "Dust particles lose protons"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zh8U6rOeJIEGCfp04UgoDAMtVrSuNKWn9QcT6",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.4 Applications of Electrostatics",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q30",
+        "Question": "A 100 W lamp is switched on for five hours each day for three weeks.\nThe cost of one unit of electricity is $0.24.\nHow much does it cost to run the lamp for this time?",
+        "Options": {
+            "A": "$0.36",
+            "B": "$0.84",
+            "C": "$2.52",
+            "D": "$25.20"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.5 Energy Costs",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q31",
+        "Question": "The information on the back of an electric room heater is shown.\nWhat is a suitable fuse rating for this room heater?",
+        "Options": {
+            "A": "4.0 A",
+            "B": "4.2 A",
+            "C": "5.0 A",
+            "D": "13.0 A"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zNFlKhB2cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.6 Safety Features",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q32",
+        "Question": "The diagram shows a horizontal rectangular wire coil WXYZ between the poles of a magnet.\nThere is a current in the coil in the direction shown.\nWhich statement is correct?",
+        "Options": {
+            "A": "The side WX experiences an upward force",
+            "B": "The side XY experiences an outward force",
+            "C": "The side YZ experiences an inward force",
+            "D": "The side ZW experiences a downward force"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zUlPhVh47CAenGyKIR35sQkFbLzpahNMxdt0H",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.7 Electromagnetic Effects",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q33",
+        "Question": "Which energy transfer takes place in an electric kettle?",
+        "Options": {
+            "A": "Chemical to electrical",
+            "B": "Electrical to heat",
+            "C": "Electrical to chemical",
+            "D": "Heat to electrical"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.8 Energy Transfer",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q34",
+        "Question": "The diagram shows a current-carrying conductor between the poles of a magnet. The force on the wire acts downwards.\nFour changes are possible.\n1 The current is increased.\n2 A stronger magnet is used.\n3 The current is reversed.\n4 The poles exchange positions.\nWhich two changes made together keep the force acting downwards?",
+        "Options": {
+            "A": "1 and 3",
+            "B": "2 and 3",
+            "C": "2 and 4",
+            "D": "3 and 4"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zBdYGPZVILNasPZrVwFdSxtD01KRWb9GJMv8u",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.7 Electromagnetic Effects",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q35",
+        "Question": "In an alternating current (a.c.) generator, a magnet rotates near a coil of wire. The induced electromotive force (e.m.f.) in the coil is displayed on an oscilloscope screen.\nWhich trace is produced as the magnet slows down?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zTEWBJm8D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.9 Generators",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q36",
+        "Question": "A student uses a transformer to light a filament lamp using a 230 V a.c. supply. The lamp has a maximum voltage rating of 6.0 V.\nWhat happens when the circuit is switched on?",
+        "Options": {
+            "A": "The lamp does not light at all",
+            "B": "The lamp lights at normal brightness",
+            "C": "The lamp lights dimly",
+            "D": "The lamp lights up brightly and then goes out"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z4f1wzOXv1MeP3YRsUl8KnypV9qH0WfBTo7vb",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.9 Transformers",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q37",
+        "Question": "Which statement about nuclear fusion is correct?",
+        "Options": {
+            "A": "Nuclear fusion occurs at low temperatures",
+            "B": "Nuclear fusion occurs only between heavy nuclei",
+            "C": "Nuclear fusion occurs in the formation of many stars",
+            "D": "Nuclear fusion powers most electricity-generating stations"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 5: Atomic Physics",
+        "Topic": "5.2 Nuclear Fusion",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q38",
+        "Question": "In one radioactive decay, radium-226 decays to radon-222 as shown.\nWhich particles are also produced?",
+        "Options": {
+            "A": "Both an alpha-particle and a beta-particle",
+            "B": "An alpha-particle only",
+            "C": "A beta-particle only",
+            "D": "A neutron"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z4f1wzOXv1MeP3YRsUl8KnypV9qH0WfBTo7vb",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 5: Atomic Physics",
+        "Topic": "5.3 Radioactive Decay",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q39",
+        "Question": "The count rate from a radioactive source falls from 4000 counts per minute to 500 counts per minute in 72 minutes.\nWhat is the half-life of the source?",
+        "Options": {
+            "A": "8 minutes",
+            "B": "9 minutes",
+            "C": "18 minutes",
+            "D": "24 minutes"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q40",
+        "Question": "Which particles are found inside the nucleus of an atom?",
+        "Options": {
+            "A": "neutrons and electrons",
+            "B": "electrons and protons",
+            "C": "neutrons only",
+            "D": "neutrons and protons"
+
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    }
+]

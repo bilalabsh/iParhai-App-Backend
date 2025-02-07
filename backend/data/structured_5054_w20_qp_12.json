@@ -1,0 +1,648 @@
+[
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q1",
+        "Question": "A heavy nail is fixed firmly to a wall. It is pulled by a string at 40° to the vertical.\nThe nail does not move.\nThree forces act on the nail:\nits weight W,\nthe tension T in the string,\nthe force R exerted by the wall.\nWhich diagram, drawn to scale, represents the three forces?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zBxJbG3VILNasPZrVwFdSxtD01KRWb9GJMv8u",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z5BdDwymTXEWylompHDBYf4PGKaU2exNZLbMj",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q2",
+        "Question": "A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey.\nWhat happens to the acceleration and what happens to the velocity of the car during the journey?",
+        "Options": {
+            "A": "Both the acceleration and the velocity change.",
+            "B": "Only the acceleration changes.",
+            "C": "Only the velocity changes.",
+            "D": "Neither the acceleration nor the velocity changes."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q3",
+        "Question": "The speed-time graph for a car's journey is shown.\nDuring which part of the journey is the car moving with non-uniform acceleration?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zT7MZlR8D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q4",
+        "Question": "A car is travelling forwards at high speed. The brakes are applied and the car skids along the road surface.\nIn which direction and where does the friction force act?",
+        "Options": {
+            "A": "backwards on the tyres",
+            "B": "forwards on the tyres",
+            "C": "upwards on the tyres",
+            "D": "downwards on the road"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q5",
+        "Question": "A car of mass 800 kg has a forward acceleration of 2.5 m / s^2. A frictional force of 1200 N opposes the motion of the car.\nWhat is the driving force due to the engine of the car?",
+        "Options": {
+            "A": "800 N",
+            "B": "1200 N",
+            "C": "2000 N",
+            "D": "3200 N"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Acceleration"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q6",
+        "Question": "A satellite orbits a planet in a circular path as shown. It has constant speed.\nThere is a force on the planet due to the satellite.\nIn which direction is the force on the planet?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zdXpHezYfit9Db5ROIxGAYpCzaePVF6Joq8wS",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q7",
+        "Question": "A block is hung on a spring balance. The marker inside the balance is pulled down by the block.\nWhat can the position of the marker be used to determine?",
+        "Options": {
+            "A": "the mass of the block in kg",
+            "B": "the mass of the block in N",
+            "C": "the moment caused by the block in N",
+            "D": "the weight of the block in kg"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zN3mC982cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q8",
+        "Question": "There is an astronaut on a planet which has a gravitational field strength one fifth of the value on Earth.\nHe hangs samples of rock from a spring balance designed for use on Earth. Each sample has a mass of 0.1 kg.\nThe spring balance reads 1.0 kg.\nHow many samples of rock are there?",
+        "Options": {
+            "A": "2",
+            "B": "10",
+            "C": "25",
+            "D": "50"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q9",
+        "Question": "An electrically charged plastic ball is at rest.\nWhich types of field are caused by the ball?",
+        "Options": {
+            "A": "electric, gravitational and magnetic",
+            "B": "electric and gravitational only",
+            "C": "electric and magnetic only",
+            "D": "gravitational and magnetic only"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q10",
+        "Question": "Which list contains only quantities that can be changed by a force?",
+        "Options": {
+            "A": "mass, shape, velocity",
+            "B": "mass, shape, volume",
+            "C": "mass, velocity, volume",
+            "D": "shape, velocity, volume"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q11",
+        "Question": "An extension-load graph is plotted for a spring.\nWhich point marks the limit of proportionality for this spring?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zNsRqva2cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q12",
+        "Question": "The diagram shows a diver 20 m below the surface of a lake. The total pressure at this depth is 3.0 x 10^5 Pa.\nAn air bubble has a volume of 0.60 cm^3 as it leaves the diver. It rises to the surface of the lake where the pressure is 1.0 x 10^5 Pa. The temperature of the air in the bubble remains constant.\nWhat is the volume of the air bubble at the surface of the lake?",
+        "Options": {
+            "A": "0.20 cm^3",
+            "B": "0.60 cm^3",
+            "C": "1.8 cm^3",
+            "D": "2.4 cm^3"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zULcifWi47CAenGyKIR35sQkFbLzpahNMxdt0",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q13",
+        "Question": "A ball is dropped from a height as shown.\nIgnoring the effects of air resistance, which statement about the total energy of the ball is correct?",
+        "Options": {
+            "A": "It is the same at all points.",
+            "B": "It is greatest at point 1.",
+            "C": "It is greatest at point 2.",
+            "D": "It is greatest at point 3."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z9Bx7B6UpfCK2FezlSOE6BmcdvgrVqyPZMjhD",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q14",
+        "Question": "A student uses an average force of F to push a box a distance of d across a horizontal table. The mass of the box is m and the gravitational field strength is g.\nHow is the work done by the student pushing the box calculated?",
+        "Options": {
+            "A": "F x d",
+            "B": "(F x d) / g",
+            "C": "m x d",
+            "D": "m x g x d"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q15",
+        "Question": "A workman rolls a barrel of weight 2000 N up a plank of length 2.0 m and onto a lorry. The back of the lorry is 0.80 m above the horizontal surface of the road.\nWhat is the work done on the barrel against gravity?",
+        "Options": {
+            "A": "1000 J",
+            "B": "1600 J",
+            "C": "2500 J",
+            "D": "4000 J"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zu9DQHj1AcuG8JrRHd0ZnxaWjlXMgteNL6Pk3",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q16",
+        "Question": "What is power?",
+        "Options": {
+            "A": "force per second",
+            "B": "the maximum force an object exerts",
+            "C": "the total energy of an object",
+            "D": "work done per second"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Power"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q17",
+        "Question": "The diagram shows a glass tube filled with water and suspended above a bench. The water is free to circulate around the tube.\nAt point P, there is a convection current moving in a downwards direction.\nAt which point is the tube heated to cause this convection current?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zvxu78fL5gQr7XAEsc0K2plVFx9IBWPt3jhSD",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q18",
+        "Question": "Which physical property cannot be used for the measurement of temperature?",
+        "Options": {
+            "A": "the length of a metal bar",
+            "B": "the mass of a plastic block",
+            "C": "the pressure of a gas",
+            "D": "the resistance of a wire"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q19",
+        "Question": "A student performs an experiment to find out how much energy is needed to change the temperature of a steel nail by 1.0 °C.\nWhich quantity is the student determining?",
+        "Options": {
+            "A": "the heat capacity of the nail",
+            "B": "the latent heat of the nail",
+            "C": "the specific heat capacity of steel",
+            "D": "the specific latent heat of steel"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q20",
+        "Question": "A substance has a melting point of -17 °C and a boiling point of 117 °C.\nIn which state does the substance exist at -10 °C and at 110 °C?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zCGoC5b07mw4fM63T9sjZezvbdH52WyJIAU1Q",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q21",
+        "Question": "Which description of a liquid is correct?",
+        "Options": {
+            "A": "fixed shape, fixed volume",
+            "B": "fixed shape, no fixed volume",
+            "C": "no fixed shape, fixed volume",
+            "D": "no fixed shape, no fixed volume"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q22",
+        "Question": "A mass of gas is trapped inside a cylinder by a moving piston.\nAs the piston moves in, the volume of the gas decreases but the temperature stays the same.\nWhat happens to the gas pressure, and why?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3z2esfK6hqhJVFQScDvk5PdH13CLaW7s49w2yK",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zWxBuvPIgGM7V1Ru3mr5Fnw2pPJev6yiTh4Zq",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q23",
+        "Question": "A plane mirror on a vertical wall forms an image of an object placed in front of it.\nWhich characteristics describe the image?",
+        "Options": {
+            "A": "real, inverted and smaller than the object",
+            "B": "real, upright and the same size as the object",
+            "C": "virtual, upright and smaller than the object",
+            "D": "virtual, upright and the same size as the object"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q24",
+        "Question": "Which statement about light passing from air to glass is correct?",
+        "Options": {
+            "A": "The frequency of the light waves decreases.",
+            "B": "The speed of the light waves decreases.",
+            "C": "The wavelength of the light waves increases.",
+            "D": "The wavelength of the light waves remains unchanged."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q25",
+        "Question": "Applications use different components of the electromagnetic spectrum.\nWhich shows correct applications for X-rays, ultraviolet light and microwaves?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z8M4cEnZaDLRZ7jgHrGusIFzkVvtJKxAW9CB2",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q26",
+        "Question": "Where does sound travel the fastest?",
+        "Options": {
+            "A": "in a vacuum",
+            "B": "in gases",
+            "C": "in liquids",
+            "D": "in solids"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q27",
+        "Question": "A scientific research boat uses pulses of ultrasound to detect fish underneath it.\nA pulse of ultrasound is bounced from a group of fish 6000 m directly below the boat.\nThe next pulse is sent out 2.0 s after the echo from the previous pulse has been received.\nThe speed of ultrasound in water is 1500 m / s.\nWhat is the interval between the two pulses?",
+        "Options": {
+            "A": "4.0 s",
+            "B": "6.0 s",
+            "C": "8.0 s",
+            "D": "10 s"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q28",
+        "Question": "Which row correctly describes ultrasound?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z45EClLv1MeP3YRsUl8KnypV9qH0WfBTo7vbi",
+        "answer": "B",
+        "Unit": "UNIT 3: Waves ",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Ultrasound"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q29",
+        "Question": "What is stored in a battery and what is its unit?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zHwCQn5N1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q30",
+        "Question": "A car battery delivers 150 kC to a circuit before it needs recharging.\nTwo headlamps connected in parallel to the battery are switched on. There is a current of 4.0 A in each lamp.\nHow much time passes before the battery needs recharging?",
+        "Options": {
+            "A": "2.6 hours",
+            "B": "5.2 hours",
+            "C": "7.8 hours",
+            "D": "10.4 hours"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q31",
+        "Question": "Three identical lamps and three ammeters are connected as shown.\nThe readings on the ammeters are I1, I2 and I3.\nHow are the readings related?",
+        "Options": {
+            "A": "I1 = I2 = I3",
+            "B": "I1 > I2 and I2 = I3",
+            "C": "I1 > I3 > I2",
+            "D": "I1 > I2 > I3"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zZjbqdYwKnuFBL9aJTvbjrM5Q0eS3Ei1NOtwY",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q32",
+        "Question": "A thermistor and a light-dependent resistor (LDR) are connected in series. A potential difference (p.d.) of 6.0 V is applied across them as shown.\nThe thermistor has a resistance of 6000 Ω in a cold room and 1000 Ω in a warm room. The LDR has a resistance of 2000 Ω in dim light and 500 Ω in bright light.\nWhen is the p.d. across the LDR equal to 2.0 V?",
+        "Options": {
+            "A": "in a cold room with bright light",
+            "B": "in a cold room with dim light",
+            "C": "in a warm room with bright light",
+            "D": "in a warm room with dim light"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zp4Cau2qyBFVJk7nvOgGHifquh0ZCYbIW9Eoj",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q33",
+        "Question": "A 240 V mains circuit contains eight 60 W lamps in parallel. At the time when the lamps are switched on, the filaments are cold and the current is four times as large as the final steady current in the circuit. What is the initial current supplied by the mains?",
+        "Options": {
+            "A": "0.25 A",
+            "B": "1.0 A",
+            "C": "2.0 A",
+            "D": "8.0 A"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q34",
+        "Question": "What is used with a magnet to create an induced electromotive force (e.m.f.) in a simple a.c. generator?",
+        "Options": {
+            "A": "a battery",
+            "B": "a coil of wire",
+            "C": "a voltmeter",
+            "D": "a relay"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q35",
+        "Question": "What changes kinetic (movement) energy into electrical energy?",
+        "Options": {
+            "A": "a car battery",
+            "B": "an electric fire",
+            "C": "an electric motor",
+            "D": "a wind turbine"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy Stores & Transfers"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q36",
+        "Question": "A transformer has 4800 turns on its primary coil and 480 turns on its secondary coil.\nThe primary coil is connected to a 240 V a.c. supply. The secondary coil is connected to a lamp.\nHow does the output current in the lamp compare with the input current?",
+        "Options": {
+            "A": "higher frequency a.c.",
+            "B": "lower frequency a.c.",
+            "C": "current in one direction only",
+            "D": "the same frequency a.c."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q37",
+        "Question": "A cathode-ray oscilloscope with the Y-gain set at 2 V / division is connected to a generator.\nWhich row describes the signal from the generator and its amplitude?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zBMa0b4VILNasPZrVwFdSxtD01KRWb9GJMv8u",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3z1T8O8y5TP3Jxd6qKczmLYhu5BOeRspE0ywGU",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q38",
+        "Question": "A potential divider uses a power supply of voltage 12 V. The resistors X and Y initially have equal resistances.\nThe resistance of X is halved.\nWhat is the change in the output voltage?",
+        "Options": {
+            "A": "-3.0 V",
+            "B": "-2.0 V",
+            "C": "+2.0 V",
+            "D": "+3.0 V"
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zZMj9yHwKnuFBL9aJTvbjrM5Q0eS3Ei1NOtwY",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q39",
+        "Question": "What is the definition of the half-life of a radioactive element?",
+        "Options": {
+            "A": "half of the time it takes for one atom to decay",
+            "B": "half of the time taken for all the atoms in a sample to decay",
+            "C": "the time taken for half of the atoms in a sample to decay",
+            "D": "the time taken for the nucleon number (mass number) to halve"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2020/Q40",
+        "Question": "Which row shows the atomic structure of a neutral atom with a nucleon number of 9?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zrMdD5Va20GbPEguFOR8J3tSdWTNnM1ehIcil",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    }
+]

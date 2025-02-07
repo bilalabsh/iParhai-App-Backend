@@ -1,0 +1,656 @@
+[
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q1",
+        "Question": "The diagram shows three forces acting on a block. The resultant force is 6 N to the right.\nWhich additional force produces a resultant force of 3 N to the left?",
+        "Options": {
+            "A": "3 N to the left",
+            "B": "9 N to the left",
+            "C": "6 N to the right",
+            "D": "13 N to the right"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zuRAumC1AcuG8JrRHd0ZnxaWjlXMgteNL6Pk3",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q2",
+        "Question": "Velocity is given by the change in displacement divided by the change in time.\nHow many vector quantities appear in this statement?",
+        "Options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Scalars & Vectors"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q3",
+        "Question": "A car of mass 1000 kg is travelling down a steep hill. The brakes fail and the driver uses a horizontal sand-filled safety road to stop the car.\nThe car enters the sand at a speed of 10 m / s and experiences a constant stopping force of 2500 N.\nHow far does the car travel in the sand before coming to rest?",
+        "Options": {
+            "A": "2.0 m",
+            "B": "4.0 m",
+            "C": "20 m",
+            "D": "40 m"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Stopping Distances"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q4",
+        "Question": "Which part of the distance-time graph shows the fastest constant speed?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zEYYWAfwSN7nxAWpJZKjvdBUumiskwaRIQqoF",
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q5",
+        "Question": "An object is accelerating along a straight, horizontal track. The acceleration is uniform.\nWhich speed-time graph represents the motion of the object?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zsyaqb7BvNek8RAbHLUPnuEOD24qIzC0iQcGf",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q6",
+        "Question": "What causes the frictional effects experienced by a cyclist to increase?",
+        "Options": {
+            "A": "using a lighter bicycle",
+            "B": "travelling at greater speed",
+            "C": "a smoother tyre surface",
+            "D": "a road surface covered in oil"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Friction"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q7",
+        "Question": "The diagram shows a car at the moment the driver sees a hazard ahead.\nWhich expression is equal to the stopping distance?",
+        "Options": {
+            "A": "braking distance + thinking distance",
+            "B": "braking distance - thinking distance",
+            "C": "braking distance x thinking distance",
+            "D": "braking distance ÷ thinking distance"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zJL4CWwTBzjS2VFe5TuCQv0IYOpi7WqAHNcJ1",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Stopping Distances"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q8",
+        "Question": "A planet orbits the Sun. The planet moves in a circular path at constant speed, but is accelerating because it is changing direction.\nIn which direction does the resultant force act to cause this acceleration?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zTwL9aeA8D6JS9RV3BHr1QLfeCmylXFadkpEv",
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Circular Motion"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q9",
+        "Question": "X is the result of Y divided by Z.\nWhat are X, Y and Z?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zN5Co9N2cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q10",
+        "Question": "The graph shows how the extension of a spring changes with the masses suspended from it when the spring is on planet X and when the spring is on planet Y.\nWhich conclusion can be drawn from these graphs?",
+        "Options": {
+            "A": "It is not possible to compare the gravitational field strengths on planets X and Y.",
+            "B": "The gravitational field strength on planet X is equal to the gravitational field strength on planet Y.",
+            "C": "The gravitational field strength on planet X is one third of the gravitational field strength on planet Y.",
+            "D": "The gravitational field strength on planet X is three times the gravitational field strength on planet Y."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zVd6PV6jhFUOyEd1YvBRagrzxC8X7MTZn0Wuk",
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q11",
+        "Question": "A uniform beam is pivoted at its centre. Two weights are placed on the beam in the positions shown and the beam is balanced by an upward force F.\nWhat is the size of F?",
+        "Options": {
+            "A": "6.0 N",
+            "B": "12 N",
+            "C": "30 N",
+            "D": "60 N"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3ztk2axyb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Equilibrium"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q12",
+        "Question": "Four objects of equal mass rest on a table. The centre of mass of each object is labelled G.\nWhich object is the least stable?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zhxotBiJIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q13",
+        "Question": "Each tyre of a car has an area of 100 cm² in contact with the ground.\nThe car has a mass of 1600 kg. The weight of the car is equally distributed amongst the four tyres.\nThe gravitational field strength g is 10 N/kg.\nWhat is the pressure exerted on the ground?",
+        "Options": {
+            "A": "4.0 N/cm²",
+            "B": "16 N/cm²",
+            "C": "40 N/cm²",
+            "D": "160 N/cm²"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q14",
+        "Question": "The pressure P of some trapped air is varied. The mass and the temperature of the trapped air remain constant.\nWhich graph shows how the volume V of the air varies with the pressure P?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zIjIh0Q9D5VPezyqMtkOHl7mWohTFJfCp0BQK",
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q15",
+        "Question": "A constant force F pulls a block of weight W up the slope shown.\nHow much work is done by F in pulling the block up the slope?",
+        "Options": {
+            "A": "F x h",
+            "B": "F x l",
+            "C": "W x d",
+            "D": "W x l"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zIjIh0Q9D5VPezyqMtkOHl7mWohTFJfCp0BQK",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Work"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q16",
+        "Question": "X and Y are both 40 W, 240 V lamps. Lamp X is more efficient than lamp Y.\nWhich statement correctly compares X with Y?",
+        "Options": {
+            "A": "X is more expensive to run.",
+            "B": "X has a lower electrical resistance.",
+            "C": "X produces less light energy.",
+            "D": "X produces less thermal energy."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Power"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q17",
+        "Question": "The diagram shows a radiator heating the air in a room.\nWhat is the name of this process?",
+        "Options": {
+            "A": "conduction",
+            "B": "convection",
+            "C": "evaporation",
+            "D": "expansion"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zIjIh0Q9D5VPezyqMtkOHl7mWohTFJfCp0BQK",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Convection"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q18",
+        "Question": "What is a process of heat transfer that can take place in a vacuum?",
+        "Options": {
+            "A": "conduction",
+            "B": "convection",
+            "C": "evaporation",
+            "D": "radiation"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Radiation"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q19",
+        "Question": "The diagrams represent four thermometers.\nWhich thermometer has the greatest sensitivity and which thermometer has the greatest range?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zCIJTED7mw4fM63T9sjZezvbdH52WyJIAU1Qq",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zJZwMpw0TBzjS2VFe5TuCQv0IYOpi7WqAHNcJ",
+        "answer": "C",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "Temperature & Pressure"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q20",
+        "Question": "A piece of iron of mass m is placed in a mixture of ice and water.\nIts temperature decreases from θ1 to θ2.\nHow much thermal energy is lost by the piece of iron?",
+        "Options": {
+            "A": "m x specific heat capacity of iron x (θ1 - θ2)",
+            "B": "m x specific heat capacity of iron x θ2",
+            "C": "m x heat capacity of piece of iron x (θ1 - θ2)",
+            "D": "m x heat capacity of piece of iron x θ2"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Specific Heat Capacity"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q21",
+        "Question": "A kilogram of a substance has a fixed shape. Thermal energy supplied to the substance weakens the forces of attraction between its molecules. What is happening?",
+        "Options": {
+            "A": "A gas is being heated.",
+            "B": "A liquid is at its boiling point.",
+            "C": "A liquid is evaporating.",
+            "D": "A solid is at its melting point."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "States of Matter"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q22",
+        "Question": "Which conditions produce the greatest rate of evaporation from a liquid?",
+        "Options": {
+            "A": "high temperature, draught and large surface area of liquid",
+            "B": "high temperature, no draught and large surface area of liquid",
+            "C": "low temperature, draught and small surface area of liquid",
+            "D": "low temperature, no draught and small surface area of liquid"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Melting, Boiling & Evaporation"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q23",
+        "Question": "Which statement is correct?",
+        "Options": {
+            "A": "Both longitudinal waves and transverse waves can travel at the speed of light.",
+            "B": "Both longitudinal waves and transverse waves of similar wavelengths must have similar frequencies.",
+            "C": "Both longitudinal waves and transverse waves can travel in a vacuum.",
+            "D": "Both longitudinal waves and transverse waves can travel in water."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.1 General Properties of Waves",
+        "Sub_topic": "Transverse & Longitudinal Waves"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q24",
+        "Question": "A mirror is placed in the path of a ray of light.\nThrough which angle does the direction of the ray of light change?",
+        "Options": {
+            "A": "40°",
+            "B": "90°",
+            "C": "100°",
+            "D": "140°"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zteyecYb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Reflection of Light"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q25",
+        "Question": "An oscilloscope is used to demonstrate a sound.\nWhich feature of the oscilloscope trace is affected by the quality (timbre) of the sound?",
+        "Options": {
+            "A": "amplitude",
+            "B": "frequency",
+            "C": "shape",
+            "D": "wavelength"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.6 Uses of Oscilloscope",
+        "Sub_topic": "Uses of an Oscilloscope"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q26",
+        "Question": "Four plotting compasses are placed near a bar magnet. Ignore any effects of the Earth's magnetic field.\nOne compass appears like this.\nWhat is a possible position for this compass?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zteyecYb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+        "Sub_topic": "Plotting Magnetic Fields"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q27",
+        "Question": "A plastic rod and a cloth are initially uncharged. The rod is then rubbed with the cloth and the cloth becomes positively charged.\nWhat is the sign of the charge on the plastic rod and why does it become charged?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zteyecYb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zteyecYb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electrical Charge"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q28",
+        "Question": "Which expression gives the electromotive force (e.m.f.) of a battery?",
+        "Options": {
+            "A": "work done x time",
+            "B": "work done x charge",
+            "C": "work done / time",
+            "D": "work done / charge"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electromotive Force & Potential Difference"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q29",
+        "Question": "A circuit contains two cells and two lamps. The cells are new and are fully charged.\nIn which arrangement of the cells and lamps do the cells discharge the most quickly?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zteyecYb1gJPYksA9XB56nvLSF02DjMhi37Wo",
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q30",
+        "Question": "A lamp is connected in series with a battery and a variable resistor. The resistance of the variable resistor is decreased gradually.\nWhich statement is correct?",
+        "Options": {
+            "A": "The current in the lamp increases.",
+            "B": "The current in the variable resistor decreases.",
+            "C": "The e.m.f. of the battery decreases.",
+            "D": "The total resistance in the circuit increases."
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zyOoDmzm3M2a6zS5b4wV9PxWcdoqHBkNZRFtI",
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Current in Circuits"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q31",
+        "Question": "In the circuits shown all the cells are identical and all the lamps are identical. The switches are closed.\nIn which circuit are both lamps the brightest?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zTuMl1I8D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q32",
+        "Question": "Why is a fuse used in an electrical appliance?",
+        "Options": {
+            "A": "to earth the appliance",
+            "B": "to protect the appliance",
+            "C": "to change the power of the appliance",
+            "D": "to change the voltage supplied to the appliance"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q33",
+        "Question": "Which statement about a transformer is correct?",
+        "Options": {
+            "A": "The changing magnetic field in the transformer induces an e.m.f. in the secondary coil.",
+            "B": "The core of the transformer is made of iron because iron is a good electrical conductor.",
+            "C": "The transformer converts alternating current to direct current.",
+            "D": "The transformer converts direct current to alternating current."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Transformers"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q34",
+        "Question": "The diagram shows the output from an a.c. generator displayed on an oscilloscope screen.\nThe generator is turned at a slower rate. The settings on the oscilloscope controls are not changed.\nWhich diagram shows the new output?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zTuMl1I8D6JS9RV3BHr1QLfeCmylXFadkpEv0",
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zsayEgyBvNek8RAbHLUPnuEOD24qIzC0iQcGf",
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.6 Uses of Oscilloscope",
+        "Sub_topic": "Uses of an Oscilloscope"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q35",
+        "Question": "The sound wave produced by a note is displayed on the screen of a cathode-ray oscilloscope.\nThe time-base is set at 5 ms for one division.\nWhat is the frequency of the note?",
+        "Options": {
+            "A": "20 Hz",
+            "B": "50 Hz",
+            "C": "60 Hz",
+            "D": "150 Hz"
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zZSEbOudwKnuFBL9aJTvbjrM5Q0eS3Ei1NOtw",
+        "image_o": null,
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.6 Uses of Oscilloscope",
+        "Sub_topic": "Uses of an Oscilloscope"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q36",
+        "Question": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength electromagnetic waves, and electrons.\nWhat are these three types of radiation?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zZSEbOudwKnuFBL9aJTvbjrM5Q0eS3Ei1NOtw",
+        "answer": "A",
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "The Three Types of Emission"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q37",
+        "Question": "A beam of electrons is fired into a uniform magnetic field as shown.\nThe direction of the magnetic field is into the page.\nWhich path do the electrons follow?",
+        "Options": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+        },
+        "image_q": null,
+        "image_o": "https://utfs.io/f/HdnjclN1lG3zZSEbOudwKnuFBL9aJTvbjrM5Q0eS3Ei1NOtw",
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects",
+        "Sub_topic": "Magnetic Effect of a Current"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q38",
+        "Question": "Which statement about all three types of radioactive emissions is correct?",
+        "Options": {
+            "A": "They are all completely absorbed by a thin aluminium sheet.",
+            "B": "They are all deflected by electric fields.",
+            "C": "They are all deflected by magnetic fields.",
+            "D": "They all cause ionisation of gases."
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "D",
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "The Three Types of Emission"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q39",
+        "Question": "What is meant by the half-life of a radioactive substance?",
+        "Options": {
+            "A": "Half the time for all the unstable nuclei to decay ",
+            "B": "Half the time it takes an unstable nucleus to emit radiation",
+            "C": "The time taken for half the unstable nuclei to decay",
+            "D": "The time for the nucleon number to halve"
+        },
+        "image_q": null,
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "Half-Life"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q40",
+        "Question": "Radioactive isotopes that emit alpha-particles, beta-particles and gamma rays are stored in wooden boxes that are lined with a material that prevents most radiation escaping from the box.\nWhich material is used for the lining? ",
+        "Options": {
+            "A": "copper ",
+            "B": "glass  ",
+            "C": "lead ",
+            "D": "plastic "
+        },
+        "image_q": "https://utfs.io/f/HdnjclN1lG3zYTXlfWxqKRhGN6DMkox90ZymwCTgArip8baL",
+        "image_o": null,
+        "answer": "C",
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "Radioactive Decay"
+    }
+]
