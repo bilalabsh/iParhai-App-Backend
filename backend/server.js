@@ -2,41 +2,41 @@ const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
 require("dotenv").config();
-const mongoose=require('mongoose');
-const colors=require('colors');
-const userRoutes=require('./routes/userRoutes')
-const {notFound,errorHandler}=require('./middlewares/errorHandler')
-const app = express();
-app.use(express.json());
-const path = require("path");
-const fs = require("fs");
-//to accpet json data
-app.use(cors());
-app.use(bodyParser.json());
+const mongoose = require("mongoose");
+const colors = require("colors");
+const axios = require("axios");
+
+const userRoutes = require("./routes/userRoutes");
 const questionRoutes = require("./routes/questionRoutes");
+const { notFound, errorHandler } = require("./middlewares/errorHandler");
 
+const app = express();
 
+// 🛠️ Middleware Setup
+app.use(express.json());
+app.use(cors({ origin: "*", credentials: true }));
+app.use(bodyParser.json());
 
-const connectDB=async()=>{
-    try{
-        console.log("Attempting to connect to MongoDB...");
-        const con=await mongoose.connect(process.env.MONGO_URL,{
-        });
-        console.log(`Database connected: ${con.connection.host}`.cyan.underline);
-       
-    }catch(err){
-        console.log(`Database connection error: , ${err.message}`.red.bold);
-        console.log(err);
-        process.exit(1);
-    }
-}
+// 🌍 MongoDB Connection
+const connectDB = async () => {
+  try {
+    console.log("Attempting to connect to MongoDB...");
+    const con = await mongoose.connect(process.env.MONGO_URL, {});
+    console.log(`Database connected: ${con.connection.host}`.cyan.underline);
+  } catch (err) {
+    console.error(`Database connection error: ${err.message}`.red.bold);
+    process.exit(1);
+  }
+};
 connectDB();
 
+// ✅ Routes
 app.get("/", (req, res) => {
   res.json({ message: "Hello from the backend!" });
 });
 
-app.use('/api/user',userRoutes)
+// 🛠️ User & Question Routes
+app.use("/api/user", userRoutes);
 
 // app.post('/api/import-questions', async (req, res) => {
 //   const dataDirectory = path.join(__dirname, "data"); // Your directory containing JSON files
@@ -83,10 +83,31 @@ app.use('/api/user',userRoutes)
 
 app.use(questionRoutes);
 
+// 📽️ Video Streaming Route
+app.get("/api/video", async (req, res) => {
+  try {
+    const videoUrl =
+      "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_large.mp4";
+    const response = await axios({
+      method: "GET",
+      url: videoUrl,
+      responseType: "stream",
+    });
+
+    res.setHeader("Content-Type", "video/mp4");
+
+    response.data.pipe(res);
+  } catch (error) {
+    console.error("Error streaming video:", error.message);
+    res.status(500).json({ error: "Failed to stream video" });
+  }
+});
+
+
 app.use(notFound);
 app.use(errorHandler);
 
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-  console.log(`Server running on PORT ${PORT}`.yellow.bold);
+// 🚀 Start Server
+app.listen(5000, "0.0.0.0", () => {
+  console.log(`Server running on http://0.0.0.0:5000`);
 });
