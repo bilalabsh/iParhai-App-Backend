@@ -81,21 +81,20 @@ app.use("/api/user", userRoutes);
 //   });
 // });
 
-app.use(questionRoutes);
 
 // 📽️ Video Streaming Route
 app.get("/api/video", async (req, res) => {
   try {
     const videoUrl =
-      "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_large.mp4";
+    "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_large.mp4";
     const response = await axios({
       method: "GET",
       url: videoUrl,
       responseType: "stream",
     });
-
+    
     res.setHeader("Content-Type", "video/mp4");
-
+    
     response.data.pipe(res);
   } catch (error) {
     console.error("Error streaming video:", error.message);
@@ -103,6 +102,7 @@ app.get("/api/video", async (req, res) => {
   }
 });
 
+app.use(questionRoutes);
 
 app.use(notFound);
 app.use(errorHandler);
